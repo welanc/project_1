@@ -1,376 +1,373 @@
-,Name,Aggregate Rating,Type,Price,Latitude,Longitude
-0,Doughboys Doughnuts,4.0,"Coffee and Tea, Desserts",1,-37.8159507485,144.9578592181
-1,Bluestones Cafe,3.0,"Coffee and Tea, Cafe Food",2,-37.8154896207,144.9585881084
-2,Sakae,2.7,"Japanese, Sushi",2,-37.8155775557,144.9575474113
-3,Crisp,3.8,"Healthy Food, Vegetarian, Salad",2,-37.8155780854,144.9575085193
-4,Pho Melbourne,3.1,Vietnamese,2,-37.8150732525,144.9580325559
-5,Roll'd - CBW,3.7,"Vietnamese, Healthy Food",2,-37.8153254045,144.9574226886
-6,Chilangos,3.5,Mexican,2,-37.8152189287,144.9573720619
-7,Blended Beard,3.3,Coffee and Tea,2,-37.8151566852,144.9573670328
-8,Rock the Wok,3.8,"Thai, Asian",2,-37.8151225175,144.9573683739
-9,Cocoa Bean,3.3,"Coffee and Tea, Sandwich",2,-37.8158506302,144.9590243027
-10,Jolly J's Restaurant,3.7,"Asian, Sri Lankan, Modern Australian",3,-37.8151635717,144.9572865665
-11,Etto Pasta Bar,3.3,"Italian, Pizza",3,-37.8163848575,144.9579470605
-12,Berto's,3.8,"Italian, Cafe Food",3,-37.8147853425,144.9579799175
-13,EARL Canteen,4.4,"Sandwich, Coffee and Tea",2,-37.8149495599,144.9587349594
-14,Bourke And Wills,3.4,"Cafe Food, Coffee and Tea",3,-37.8151031823,144.9572406337
-15,The Tuck Shop,3.2,"Sandwich, Coffee and Tea",1,-37.8151942962,144.9590403959
-16,Little Cupcakes,4.1,"Desserts, Coffee and Tea",1,-37.815024782,144.9572979659
-17,Saigon Pho,3.1,"Vietnamese, Pho",2,-37.8149228084,144.9588385597
-18,Spin Coffee,3.2,"Coffee and Tea, Healthy Food, Cafe Food",2,-37.81647544,144.9583379924
-19,Patricia Coffee Brewers,4.9,Coffee and Tea,1,-37.8147135635,144.9582602084
-20,Happy Lemon - Elizabeth Street,3.9,"Coffee and Tea, Beverages",1,-37.8080248307,144.9604512379
-21,David's Spicy Pot大味麻辣烫 - Elizabeth Street,4.4,"Chinese, Malatang",3,-37.8079175496,144.9604297802
-23,Once For All,3.7,Bubble Tea,1,-37.8080364859,144.9601696059
-24,Sarawak Kitchen,4.2,"Chinese, Malaysian",2,-37.8079718524,144.9601300433
-25,Chef David 大味江湖,4.1,"Chinese, Hot Pot, Asian, BBQ, Cabinet Food",4,-37.80785,144.960397
-26,Mala 1+1 (麻辣 1+1),3.5,"Chinese, Malatang",2,-37.8079186092,144.9600710347
-27,Kicks,3.4,Pub Food,3,-37.8084155443,144.960655421
-29,Malaysian Laksa House,3.8,Malaysian,3,-37.8085646772,144.9603898823
-30,The Borek Bakehouse,4.4,"Bakery, Middle Eastern",1,-37.8077111987,144.9600053206
-31,Hero Tang Tea 黑泷堂,3.4,"Bubble Tea, Tea, Beverages",1,-37.8087093067,144.9604592845
-32,Menya Ramen - Elizabeth Street,3.8,"Japanese, Ramen",3,-37.8087498347,144.9604448676
-33,Pondok Rempah,3.6,Indonesian,3,-37.8075575609,144.9599235132
-34,Rose Garden BBQ,4.6,"Chinese, BBQ",2,-37.8088110239,144.9604656547
-35,Dragon Hot Pot,4.0,Malatang,2,-37.8088743323,144.9605139345
-36,Gong Cha,3.8,"Bubble Tea, Taiwanese",1,-37.8089108868,144.9605451152
-37,Hot Star Large Fried Chicken 豪大大雞排,3.8,"Fast Food, Taiwanese, Fried Chicken",2,-37.8089217472,144.9605313689
-38,Jasper Kitchen & Bar,3.5,Modern Australian,4,-37.8074105451,144.9598118663
-39,Ichigo,3.6,"Japanese, Cafe Food, Coffee and Tea",1,-37.8086573884,144.9595429748
-40,Sparrows Philly Cheese Steaks Food Truck,3.1,"American, Steak",3,-37.813622302,144.9630647153
-41,Moo Mii Sushi,0.0,"Japanese, Sushi",1,-37.8136093233,144.9632383883
-42,Schnitz,4.0,"Sandwich, Fast Food",2,-37.8137094446,144.9627552554
-43,Yifang Taiwan Fruit Tea - Elizabth 一芳臺灣水果茶,3.3,"Bubble Tea, Asian",1,-37.8136887847,144.9627391622
-44,Tropicana Juice Food Bar,4.4,"Juices, Cafe Food",2,-37.8135600573,144.9626938999
-46,Captains of Industry,4.4,"Sandwich, Coffee and Tea, Cafe Food",2,-37.8136310428,144.9625473842
-47,Federal Coffee,4.0,"Coffee and Tea, Cafe Food",2,-37.8140357649,144.963343665
-48,Udon Yasan,3.9,"Asian, Japanese",2,-37.8140484786,144.9628819898
-49,Ca de Vin,4.2,Mediterranean,4,-37.8138185714,144.9636578187
-50,Sweet Canteen,4.0,Patisserie,1,-37.8130909684,144.9631465226
-51,Cartel Coffee Roasters,4.2,"Sandwich, Coffee and Tea, Cafe Food",2,-37.8138556532,144.9625306204
-52,Brunetti,4.0,"Desserts, Coffee and Tea, Cafe Food",2,-37.8135505219,144.9638036639
-53,Shanghai Street Dumpling & Mini Juicy Bun,4.5,"Chinese, Dumplings",3,-37.8133039261,144.9624219909
-54,Hana's Kitchen,3.8,Asian,3,-37.8133407434,144.9623750523
-55,Beneath Driver Lane,4.0,"Bar Food, French",3,-37.8129352228,144.9630489573
-56,The Salon Bar & Cafe,3.9,"Sandwich, Coffee and Tea",3,-37.8134959583,144.9639575556
-57,Little Ramen Bar,4.3,"Japanese, Ramen",3,-37.8133545167,144.9622895569
-58,Luis BBQ & Pizza,3.2,"BBQ, Pizza, Fast Food",2,-37.813077195,144.9624618888
-59,Shanghai Street on Bourke,4.1,"Chinese, Dumplings",3,-37.814290834,144.9627706781
-60,Elements,3.3,"Modern Australian, Coffee and Tea, Cafe Food",2,-37.8140712574,144.9689669162
-61,Liminal,3.6,"Cafe Food, Coffee and Tea",3,-37.8153627505,144.9686071649
-62,Spice Market,3.2,"Bar Food, Middle Eastern",3,-37.8151188094,144.9696787074
-63,The George On Collins,3.7,"Vietnamese, Asian, Fusion",4,-37.8148436133,144.9679620937
-64,RU-CO - Grand Hyatt,3.9,Bar Food,3,-37.8152311125,144.9698128179
-65,Collins Kitchen,4.1,Contemporary,4,-37.8152769342,144.9698252231
-66,Gold Drops Coffee Brewers,3.9,Coffee and Tea,1,-37.8140241106,144.9680351839
-67,Philippe,4.3,French,4,-37.8147657424,144.9701145664
-68,Lune Croissanterie,4.5,"Bakery, French",1,-37.8156485393,144.9692760408
-69,Bistro Bar - Grand Hyatt,3.2,Bar Food,3,-37.8153497721,144.96988222
-70,Quists Coffee,3.9,Coffee and Tea,1,-37.8138882323,144.9681116268
-72,Il Bacaro Cucina e Bar,4.7,Italian,4,-37.8139189572,144.9680127204
-73,Teppanyaki Inn,4.6,"Japanese, Teppanyaki",4,-37.8148928785,144.9675885961
-74,Meatmaiden,4.4,"BBQ, Steak",4,-37.8141215826,144.967780374
-75,The Crafty Squire,2.9,"Bar Food, Modern Australian",4,-37.8136996444,144.96835839
-76,Lello Pasta Bar,4.3,Italian,4,-37.8157563388,144.9693280086
-77,Il Solito Posto,4.6,Italian,4,-37.8149206895,144.9702775106
-79,Postal Hall,3.9,"Coffee and Tea, Sandwich, Cafe Food",2,-37.8136034962,144.9685810134
-80,Brewers Place,4.0,"Coffee and Tea, Cafe Food",2,-37.8149784304,144.9572734907
-81,Paco's Tacos,4.1,Mexican,3,-37.8148009697,144.9586440995
-83,MoVida Aqui,4.5,"Spanish, Tapas",4,-37.8147464071,144.9586350471
-85,Pok Pok Junior,3.8,Thai,3,-37.8165580766,144.9579755589
-86,Bourke Street Green,3.7,Bar Food,3,-37.8154565126,144.9593532085
-88,Lt Billy Takeaway,3.3,"Cafe Food, Coffee and Tea",1,-37.8146600603,144.9576178193
-89,Lt. Osteria,3.9,"Coffee and Tea, Italian",3,-37.8149927332,144.9570441619
-91,Rosa's Canteen,4.0,Italian,4,-37.8146989958,144.9587601051
-92,The Common Kitchen & Bar,3.4,"Coffee and Tea, Modern Australian",3,-37.8160042507,144.9568557367
-93,Little Billy Restaurant,3.8,Modern Australian,4,-37.814618,144.957479
-94,Ikyu Sushi,3.0,"Fast Food, Japanese, Sushi",2,-37.8145570268,144.9587051198
-95,The Poké Man,3.4,"Coffee and Tea, Bubble Tea, Poké",2,-37.8148210996,144.9570213631
-96,Bluebag Fresh,3.3,"Sandwich, Healthy Food, Coffee and Tea",2,-37.8151953556,144.959481284
-97,Streat,0.0,"Bakery, Coffee and Tea",1,-37.8154520099,144.9595671147
-98,Mr Q Grab & Go,3.1,"Asian, Malaysian, Chinese",2,-37.8148208347,144.9569757655
-99,Axil Coffee Roasters,3.6,"Cafe Food, Coffee and Tea",3,-37.8165617846,144.9572030827
-100,Parco Project x Shujinko,3.9,"Japanese, Italian",3,-37.8089688973,144.9605876952
-102,Hui Lau Shan 许留山,4.0,"Asian, Desserts",2,-37.8090083656,144.9606185406
-103,Tea Bag 芝士嘟嘟,3.7,Bubble Tea,1,-37.8090563103,144.9606336281
-104,Biang Biang古城秦味,3.9,"Chinese, Street Food",3,-37.809082,144.960457
-105,NeNe Chicken,3.2,"Korean, Fried Chicken",2,-37.8090133985,144.9609286711
-106,Narocha Premium Tea Room,4.1,"Bubble Tea, Cafe Food, Coffee and Tea",1,-37.8071022084,144.9601763114
-107,Sarawak Kitchen Express,3.4,Malaysian,2,-37.8079170198,144.9617055059
-108,Pie Face,2.9,Meat Pie,1,-37.8091352468,144.9606788904
-109,HongKongBoi,3.9,"Asian, Desserts, Ice Cream",2,-37.8087495698,144.9593421444
-110,Jojo Little Kitchen,4.1,Malaysian,2,-37.8089304886,144.9595439807
-111,YOI,4.2,"Asian, Indonesian",2,-37.8088195004,144.9593857303
-112,Plus 852 Cafe,3.5,"Chinese, Coffee and Tea",3,-37.8088496976,144.9594195932
-113,Captain Melville,4.3,"Modern Australian, Fusion, Asian",3,-37.8076725243,144.9616817012
-114,Loch & Key,3.5,Bar Food,3,-37.8075737193,144.9616337568
-115,Torasan Ramen,3.2,"Japanese, Ramen",2,-37.8091090229,144.9609977379
-116,Pelicana Chicken,3.2,"Korean, Fried Chicken",3,-37.8089945914,144.9595563859
-117,Meet Sando,3.7,"Coffee and Tea, Cafe Food",2,-37.8070879041,144.9597139657
-118,No.1 Delicious,3.9,Chinese,3,-37.8078693393,144.9618282169
-119,Daboba,4.1,Bubble Tea,1,-37.8090382979,144.9595104531
-120,Brother Baba Budan,4.6,Coffee and Tea,1,-37.8135166183,144.9621061608
-121,Manchester Press,4.4,"Coffee and Tea, Cafe Food",2,-37.8139099517,144.9621769041
-122,Tipo 00,4.9,Italian,4,-37.8135277429,144.9619733915
-123,Ramen Ya,4.1,"Japanese, Ramen",3,-37.812798283,144.9636075273
-124,1000 Wat,2.7,Thai,2,-37.8127964289,144.9636155739
-125,Portello Rosso,4.5,"Spanish, Tapas",4,-37.8137849328,144.9619365111
-126,Osteria Ilaria,4.5,Italian,4,-37.8135661493,144.9618922547
-127,Pho Nom,4.1,"Vietnamese, Pho",2,-37.8127635845,144.9637584016
-128,+39 Pizzeria,4.6,"Pizza, Italian",4,-37.8134906609,144.9618449807
-129,Noodle Express by Dainty Sichuan,4.1,"Chinese, Sichuan",2,-37.8127641142,144.9637922645
-130,Tutti Frutti Frozen Yogurt,3.3,"Frozen Yogurt, Desserts",1,-37.8127612006,144.9637879059
-132,Kyo Teahouse,4.5,"Japanese, Desserts, Tea",1,-37.8127445135,144.9637956172
-133,Mochi Moments,4.1,Japanese,1,-37.8127802715,144.9638797715
-134,Tmix,3.6,"Bubble Tea, Desserts",1,-37.8127548436,144.9638710544
-135,Yo Art,3.3,"Coffee and Tea, Desserts, Frozen Yogurt",1,-37.8126221414,144.9635880813
-136,Grill'd - Little Bourke St,3.9,Burger,2,-37.81361621,144.9617158994
-137,Calia,4.5,"Japanese, Australian, Asian",4,-37.8127461027,144.9639669433
-138,The Tea Empire,3.6,"Bubble Tea, Tea, Taiwanese, Beverages",1,-37.8126933927,144.962288551
-139,Whitehart,3.7,Bar Food,3,-37.8129545586,144.9619472399
-140,Box Seafood Restaurant,4.0,Seafood,4,-37.8152785234,144.9676771089
-141,Hazel,4.0,Modern European,4,-37.8158784409,144.9689042196
-142,Little Temperance,3.9,"Cafe Food, Coffee and Tea",2,-37.8140108671,144.9676818028
-143,Dessous,3.4,Bar Food,3,-37.8159480998,144.9686772376
-144,Sezar,4.7,Middle Eastern,4,-37.813434773,144.968899861
-145,Marameo,3.8,Italian,4,-37.8139382928,144.9676181004
-147,Pizza al Taglio Stellini Bar,4.1,"Italian, European",3,-37.8141051607,144.9674635381
-148,Embla,4.4,"Bar Food, Contemporary",3,-37.8134562276,144.9685079232
-149,Anco,0.0,Australian,4,-37.813402,144.968968
-150,Meatball & Wine Bar,4.3,Italian,3,-37.8156586041,144.9700639397
-151,Harry's Restaurant & Bar,3.3,"Modern Australian, Burger, Bar Food",3,-37.8135891931,144.9698329344
-152,Hot Sauce,3.4,"Bar Food, Asian, Dumplings",4,-37.813533835,144.9680261314
-153,Everyday Coffee Midtown,3.5,Coffee and Tea,1,-37.8142447468,144.9672617018
-154,Ikkoryu Fukuoka Ramen,4.0,"Japanese, Ramen",3,-37.8160169642,144.9694041163
-155,The Cake Shop,3.0,"Cafe Food, Desserts, Coffee and Tea",3,-37.8134323891,144.9681686238
-156,Gin Palace,4.3,Bar Food,4,-37.8138681021,144.967481643
-157,Coda,4.6,"Asian, Fusion",4,-37.8158217601,144.9699640274
-158,Kisumé,4.5,Japanese,4,-37.8160916554,144.968640022
-159,Supernormal,4.5,"Asian, Fusion",4,-37.8160479531,144.9683724716
-161,Banoi,3.6,"Vietnamese, Pho",3,-37.814903738,144.9568520486
-162,CBD Bakery,3.7,"Bakery, Coffee and Tea",1,-37.8151937664,144.9595402926
-163,Oh! Dumplings,3.0,Dumplings,3,-37.8147962021,144.9568922818
-164,Alibi Kitchen & Bar- Mantra on Little Bourke,3.5,"Continental, Australian",4,-37.8144743879,144.9588496238
-165,Goz City,4.3,"Coffee and Tea, Turkish",2,-37.8168674332,144.9577358365
-166,Bruce Lee Sushi & Roll,3.8,Sushi,2,-37.8147464071,144.9568265677
-167,Zuppa,3.0,"Coffee and Tea, Healthy Food, Sandwich",2,-37.8168949786,144.9576335773
-169,Sargon,3.7,"Sandwich, Cafe Food, Coffee and Tea",2,-37.8152263449,144.9564269185
-171,In A Rush,0.0,"Coffee and Tea, Cafe Food",2,-37.8169699338,144.9578548595
-172,Tahini Lebanese Diner,3.9,Middle Eastern,3,-37.8146160923,144.9568678066
-173,Schmucks Bagels,4.0,"Deli, Coffee and Tea",2,-37.814592519,144.956898652
-174,Terrace Deli,3.1,"Coffee and Tea, Sandwich",2,-37.8165088125,144.9594259635
-175,RollnBox,0.0,"Sushi, Japanese, Korean",1,-37.814703,144.956756
-176,BBQ Box,3.5,"Korean, Healthy Food, Fast Food, Asian",2,-37.8164960991,144.9594625086
-177,Ayam Goreng Street,3.8,"Indonesian, Malaysian",2,-37.814691,144.956751
-178,Mary's Kitchen,0.0,"Coffee and Tea, Cafe Food",2,-37.8168563091,144.9573097006
-179,Le Petit Gateau,4.9,"French, Desserts, Coffee and Tea",2,-37.8163464526,144.9596324936
-180,Butterlake Pancakes,3.4,"Desserts, Taiwanese",1,-37.8072187619,144.9593739957
-181,Queen Victoria Market Cake Shop,3.3,"Desserts, Bakery",1,-37.8071973055,144.9593807012
-182,The Borek Shop,4.4,"Bakery, Turkish",1,-37.807176114,144.9594024941
-183,Mary's,3.2,"Burger, Bar Food",3,-37.808952,144.959278
-184,Wing Loong Restaurant,3.5,"Chinese, Seafood",3,-37.806881021,144.9599647522
-185,Ladle and Tong,3.8,Healthy Food,2,-37.8071263138,144.9593558908
-186,Cafe Ren,3.5,"Coffee and Tea, Cafe Food, Sandwich",1,-37.8070926722,144.9593485147
-187,Bratwurst Shop & Co,4.3,"Fast Food, German, Eastern European",1,-37.8070987648,144.9593146518
-189,Invita,3.9,"Vegetarian, Coffee and Tea, Cafe Food",3,-37.8073935919,144.958909303
-190,B'Churrasco,4.4,"BBQ, Brazilian, Steak",4,-37.8090780311,144.9616310746
-191,Da Long Yi Hotpot 大龙燚火锅,3.9,"Hot Pot, Chinese, Asian",3,-37.80936199,144.9611090496
-192,Cupanda Kitchen 每客美味,3.7,"Chinese, Dumplings, Hot Pot",3,-37.8094660903,144.9601176381
-193,Drago's,3.1,Sandwich,1,-37.8069981047,144.9593032524
-194,The Corner Chicken Shop,3.6,Fast Food,2,-37.8069755886,144.9592975527
-195,Cafe Victoria,2.8,"Coffee and Tea, Cafe Food",2,-37.806810029,144.9595664442
-196,Chickcha,3.7,"Coffee and Tea, Cafe Food",2,-37.8090732631,144.9617665261
-197,Kaki Lima,3.7,Indonesian,1,-37.8080966162,144.962255694
-198,The Orient Hot Pot,3.8,"Chinese, Hot Pot, Sichuan",4,-37.8090205504,144.9618624151
-199,Coffea Cafe,3.8,"Coffee and Tea, Cafe Food",2,-37.8067647319,144.9595396221
-200,Gyoza Gyoza - Emporium,4.2,"Asian, Japanese",3,-37.8127167017,144.9639743194
-201,Sensory Lab - Bourke Street,3.4,"Coffee and Tea, Sandwich, Desserts",2,-37.8133982206,144.9644993618
-202,Rice Workshop,4.1,Japanese,2,-37.8125111588,144.9634620175
-203,Nabe One,2.5,Japanese,2,-37.8126994848,144.9639588967
-204,Cafe Blush,3.7,"Cafe Food, Coffee and Tea",3,-37.8126986902,144.9639632553
-205,Chokolait,4.0,"Desserts, Coffee and Tea, Cafe Food",2,-37.8127061067,144.9639967829
-208,Spudbar,3.4,"Healthy Food, Fast Food, Salad",2,-37.8124656002,144.9634217843
-209,Dex2rose Nitrogen Gelato,4.3,"Desserts, Ice Cream",1,-37.8138153929,144.9616491795
-210,Botica,3.6,"Coffee and Tea, Cafe Food",2,-37.8127288859,144.9640859664
-211,Agathé Pâtisserie Petite,4.1,"Bakery, Patisserie",1,-37.8145758324,144.9639169872
-212,Starbucks,3.1,"Coffee and Tea, Cafe Food",1,-37.8147668018,144.9632119015
-213,Dumplings Plus,2.7,"Dumplings, Chinese",3,-37.8127005443,144.9640702084
-214,Tokyo Pop,3.6,"Japanese, Sushi",2,-37.8127288859,144.9641114473
-215,Unabara Lobster & Oyster Bar,4.2,"Seafood, Japanese",3,-37.8127008092,144.9640809372
-216,Truedan (JenJudan) 珍煮丹,4.1,"Bubble Tea, Tea, Beverages",1,-37.8146370168,144.9623435363
-217,Godiva,4.2,"Desserts, Cafe Food",2,-37.8125450628,144.9638224393
-218,Kit Espresso,3.7,Coffee and Tea,1,-37.8146574116,144.9638231099
-219,Guzman y Gomez,3.4,Mexican,2,-37.8123969975,144.9633879215
-220,The LuWow,3.0,Bar Food,3,-37.8141623725,144.9672402442
-221,Pascale Bar & Grill,4.1,"Modern Australian, Grill",4,-37.8133926583,144.9681917578
-222,Ba'get,4.3,"Sandwich, Vietnamese",1,-37.8133057802,144.9684314802
-223,Chin Chin,4.6,"Thai, Asian Fusion",4,-37.8155645773,144.9703757465
-224,The Rooftop at QT,3.8,Bar Food,3,-37.8133624629,144.9681210145
-225,Whisky Den,3.5,Drinks Only,3,-37.8161109903,144.9694808945
-226,Doc Martin's,3.8,"European, Modern Australian",4,-37.8141570751,144.9707096815
-227,Bar Ampere,4.2,"European, Bar Food",3,-37.8137155367,144.9674011767
-229,Om Nom Kitchen - Adelphi Hotel,4.3,"Desserts, Modern Australian",4,-37.8162095191,144.9683127925
-230,Lucy Liu Kitchen and Bar,4.4,Asian,4,-37.8160013373,144.9700495228
-231,Mister Munro,3.0,Modern Australian,4,-37.8143573161,144.9668895453
-232,Simpsons Burgers,4.3,"Burger, Fast Food",2,-37.8131881768,144.9681277201
-233,Binary,3.6,Coffee and Tea,3,-37.8152247557,144.9708612263
-234,Lobby Lounge - The Westin Melbourne,3.9,Modern Australian,3,-37.8158964515,144.9674819782
-236,Go Go Bar,4.1,"Bar Food, Asian Fusion",3,-37.8158445384,144.9704136327
-237,Allegro Restaurant,3.7,"Modern European, Modern Australian",4,-37.8159290297,144.9674860016
-238,Straight Outta Saigon,3.5,"Vietnamese, Pho",3,-37.8130671298,144.9683275446
-239,Jack & Bones Island Bar,3.6,"American, Pub Food",3,-37.8155028639,144.9707975239
-241,Hudsons Coffee,3.4,"Coffee and Tea, Sandwich",2,-37.8169400047,144.9573754147
-242,Ratee Thai,4.6,Thai,2,-37.8169034541,144.9572329223
-243,Sociale Espresso Bar,0.0,Coffee and Tea,2,-37.8168184342,144.957045503
-244,Nashi - Bourke Place,2.7,"Coffee and Tea, Healthy Food, Salad, Sandwich",2,-37.8160537801,144.9563072249
-245,Culpa Espresso,3.8,"Cafe Food, Coffee and Tea",1,-37.8170205219,144.9586702511
-246,Cooking Corner,4.0,"Chinese, Asian",3,-37.8150218684,144.9563397467
-247,Cinnamon's Sri Lankan Cuisine,4.2,Sri Lankan,2,-37.8169161674,144.957158491
-248,Bambini Barrista,3.8,"Coffee and Tea, Cafe Food",2,-37.8168515417,144.956978783
-249,Fiord,3.6,"Cafe Food, Coffee and Tea",1,-37.8167771161,144.9567910284
-250,Bagelworks,3.7,"Coffee and Tea, Sandwich",2,-37.8164171705,144.9597987905
-251,Coffeelogic,2.9,"Coffee and Tea, Desserts",2,-37.8167267927,144.9566954747
-252,Uncle David's Cafe,3.7,"Cafe Food, Coffee and Tea",1,-37.8169686095,144.9570599198
-253,Double Up Espresso,3.2,"Malaysian, Coffee and Tea",1,-37.8170064844,144.9571343511
-254,Pho Nung Vietnamese Restaurant,3.8,"Pho, Vietnamese, Asian",3,-37.8170120464,144.9571309984
-255,Mad Mex,3.4,Mexican,2,-37.8157380632,144.9560530856
-256,Massi,4.1,Italian,4,-37.8163843277,144.9599191546
-257,Kartel Express,3.4,"Coffee and Tea, Cafe Food",2,-37.8171346761,144.9573170766
-258,Henry and the Fox,4.1,"Modern Australian, Coffee and Tea",4,-37.8171381193,144.9572946131
-259,Yes Sushi,0.0,"Japanese, Beverages, Sushi",2,-37.8150849066,144.9601213262
-260,Gotcha,3.3,"Beverages, Bubble Tea, Tea",2,-37.8095346958,144.9611529708
-261,M&G Caiafa,3.7,Bakery,1,-37.8068423463,144.9592247978
-263,Darac Grill & Bar,4.5,"Korean, Asian",3,-37.8089763142,144.9620451406
-264,Mansae Korean BBQ & Bar,4.5,"Korean, Korean BBQ",4,-37.8095630386,144.9596073479
-265,Market Lane Coffee,4.0,Coffee and Tea,2,-37.8068296313,144.9591165036
-266,Andrew's Bread Shop,3.7,Bakery,1,-37.8068166514,144.9591285735
-267,Ferguson Plarre Bakehouse,3.6,"Bakery, Fast Food",1,-37.8067893672,144.9591644481
-268,Podium,3.5,"Continental, Coffee and Tea, Cafe Food",2,-37.8068460548,144.9617289752
-269,Damiao Panda Fan 大妙火锅 · 川菜,3.0,"Hot Pot, Sichuan, Chinese",3,-37.809614,144.961199
-270,Woodfrog Bakery ,0.0,Bakery,1,-37.8067578446,144.9591761828
-271,Lanzhou Beef Noodle Bar,4.4,"Chinese, Fast Food",2,-37.8098154743,144.9610010907
-272,American Doughnut Kitchen,4.5,Desserts,1,-37.8074648483,144.9582578614
-273,ChangGo,4.6,"Korean BBQ, Korean",3,-37.8095426424,144.9617829546
-274,Hello Dumpling 包饺汤饭,3.7,"Dumplings, Chinese",2,-37.8097113745,144.9614463374
-275,NO. 1 Spicy Pot,2.9,"Chinese, Malatang",3,-37.8088798949,144.9624749646
-276,Mr. Panda,0.0,Bubble Tea,1,-37.8062730835,144.9602966756
-277,BOWLTIFUL  壹碗中国兰州牛肉面,3.9,Chinese,2,-37.8098218316,144.9612740055
-278,Pork Belly House Melbourne,3.5,"Chinese, Asian",3,-37.806971,144.962347
-279,Nando's,3.4,Portuguese,3,-37.8099020916,144.9613400549
-280,Little Curry,3.5,Indian,2,-37.8145334535,144.9620947614
-281,Boost Juice,0.0,"Juices, Beverages",1,-37.8123837537,144.9635220319
-282,Belles Hot Chicken,3.8,"American, Fried Chicken",3,-37.8148605647,144.963244088
-283,Grab A Yabby,3.7,"Seafood, Grill",3,-37.8144084357,144.9643454701
-284,FIG - Fresh is Good,3.5,Healthy Food,2,-37.8148422889,144.9627448618
-285,Crossways Food For Life,4.5,"Indian, Vegetarian, Vegan",1,-37.8144579661,144.9642938376
-286,Bincho Boss,4.0,Japanese,3,-37.813735402,144.9614714831
-287,The Little Royal,4.0,Desserts,1,-37.8146073516,144.9641322345
-288,South Melbourne Market Dim Sims,3.0,"Asian, Fast Food",1,-37.8123713045,144.9636454135
-289,New Shanghai - Emporium,4.2,Chinese,4,-37.8123034963,144.9633805454
-290,Blok M,4.1,Indonesian,3,-37.8136228318,144.9614107981
-293,Es Teler 77,3.2,Indonesian,2,-37.8123101182,144.9636444077
-294,La Belle Miette,4.8,"Desserts, French, Coffee and Tea",1,-37.814007159,144.9614460021
-295,"Louden Kitchen & Grill - The Swanston Hotel Melbourne, Grand Mercure",2.9,Modern Australian,4,-37.812888605,144.9645935744
-296,Campari House,3.9,"Italian, Bar Food",4,-37.814025435,144.9614376202
-297,Superbus,3.6,"Cafe Food, Coffee and Tea, Modern Australian",3,-37.8130790491,144.9614805356
-298,Florence Coffee,3.5,"Coffee and Tea, Cafe Food",2,-37.8137197746,144.961345084
-299,Bombay Bar,3.2,Indian,2,-37.8122645595,144.9636169151
-300,Cafe Kinetic,4.0,"Coffee and Tea, Cafe Food",2,-37.8153744045,144.9708840251
-301,Good 2 Go,3.5,Coffee and Tea,2,-37.8164052518,144.9690631405
-302,Mejico,0.0,Mexican,3,-37.814049,144.970904
-303,Modern China Tea Shop 茶颜悦色,3.5,"Tea, Bubble Tea, Beverages",1,-37.8130975902,144.9680962041
-304,Maverick,0.0,"Cafe Food, Coffee and Tea",3,-37.813414,144.970406
-305,Neapoli Wine Bar,4.3,"Bar Food, Modern European",4,-37.8134909258,144.967292212
-306,Taco Bill,2.8,Mexican,3,-37.8130088577,144.9682970345
-307,Bar Tini,3.4,"Spanish, Tapas",3,-37.8164727914,144.9690882862
-308,Momo Station,4.2,Nepalese,2,-37.8139210762,144.9668576941
-309,Wagyu Fun,3.9,Asian,3,-37.8139096868,144.9668473005
-310,Ishizuka,4.5,Japanese,4,-37.8129188006,144.9692864344
-311,Nick and Nora's,3.7,European,4,-37.81369,144.97083
-312,Taste Hunan 湘遇湖南菜,3.3,Chinese,3,-37.8140121915,144.9667383358
-313,Superfluid,3.6,"Healthy Food, Juices",1,-37.8131267263,144.9676268175
-314,Hub Express,3.5,"Kebab, Coffee and Tea",1,-37.8129688618,144.9680120498
-315,Salero Kito Padang,4.0,Indonesian,2,-37.8140307324,144.9666860327
-316,Garden State Hotel,3.8,Modern Australian,4,-37.8153465937,144.9711257592
-317,Nusantara Indonesian Cuisine,3.8,Indonesian,1,-37.8138286364,144.9667825922
-318,Pokéd,3.9,"Hawaiian, Sushi",2,-37.8131222234,144.9702097848
-319,Chapter House Coffee,3.8,"Coffee and Tea, Cafe Food",2,-37.8164147868,144.9678910151
-320,Curry Bowl,0.0,Indian,2,-37.8170507159,144.9570099637
-321,Kinship & Co.,3.9,"Coffee and Tea, Cafe Food",1,-37.8168186991,144.9566116557
-322,Café Felice,3.4,"Sandwich, Coffee and Tea, Cafe Food",2,-37.8152345557,144.9602336437
-323,Mr. Fusion Modern Japanese,4.0,Japanese,2,-37.8170440944,144.9568855763
-324,Kardo Cafe & Eatery,3.5,"Cafe Food, Coffee and Tea, Mediterranean",2,-37.8170684614,144.9569120631
-325,Dominos Cafe Deli,3.8,"Cafe Food, Coffee and Tea",2,-37.8143075208,144.9566022679
-326,Cafe Intimo,3.9,"Italian, Coffee and Tea, Cafe Food",3,-37.816328442,144.9601300433
-327,The Joint Melbourne,0.0,"Cafe Food, Coffee and Tea, Vietnamese",2,-37.8172988883,144.9574820325
-328,Five Points,3.9,"Coffee and Tea, Cafe Food",2,-37.8171066011,144.9569147453
-329,Marrakech Cocktail Bar,3.1,Drinks Only,3,-37.8162781183,144.9602004513
-330,Little Colin,3.6,"Coffee and Tea, Sandwich",2,-37.8163072531,144.960218221
-331,Vault Espresso Bar,3.5,"Coffee and Tea, Cafe Food",2,-37.8170719046,144.9567326903
-332,Korchi City,4.2,"Korean, Chinese",3,-37.8142044867,144.9596093595
-333,LB2 Cafe,4.1,"Coffee and Tea, Sandwich",1,-37.8171052768,144.9567333609
-334,Scugnizzo,4.1,Italian,4,-37.8150745768,144.9558492377
-335,Dikstein's Corner Bar,4.2,"Coffee and Tea, Pizza, Cafe Food",3,-37.8162545456,144.9602966756
-336,Burger Boys Melbourne,3.8,Burger,3,-37.8174347603,144.9577013031
-337,Shuji Sushi,2.8,"Japanese, Sushi",2,-37.8165252338,144.9560426921
-338,Saving Grace,3.5,"American, Bar Food",3,-37.8174456195,144.9577023089
-339,Syracuse,4.1,"Australian, Contemporary",4,-37.8163965114,144.9602681771
-340,Sichuan Dining Room,3.0,"Chinese, Sichuan",3,-37.8070508188,144.9624910578
-341,Nice to Meet You,3.0,"Bubble Tea, Desserts",1,-37.8088600283,144.9626875296
-342,Spice Up Hot Pot Dips,4.0,"Chinese, Malatang",2,-37.809382916,144.9622862041
-343,Phancy Cafe,3.7,"Coffee and Tea, Cafe Food",2,-37.8091866349,144.9582082406
-344,Market Espresso,3.8,"Sandwich, Coffee and Tea, Cafe Food",1,-37.8080619154,144.9578106031
-345,El Rincon,3.9,"Spanish, Bar Food, Cafe Food",3,-37.8063186459,144.9590883404
-346,Original Chai Co,3.7,Tea,1,-37.8072153183,144.9580359086
-347,Wonderbao,4.6,"Chinese, Taiwanese",1,-37.8089773737,144.9627716839
-348,Smile Bread,3.2,"Bakery, Desserts",2,-37.8101089662,144.9610976502
-349,Drums Cafe,3.5,"Indian, Sri Lankan",2,-37.8062969243,144.9590336904
-350,The Vine Coffee Roasters,3.5,"Coffee and Tea, Sandwich",2,-37.8083082638,144.9630563334
-351,Canton Malay,3.5,"Chinese, Malaysian",2,-37.8063011627,144.9589864165
-352,The Bean Project,3.3,"Coffee and Tea, Sandwich",1,-37.8083620365,144.9630791321
-353,Little Charley,0.0,"Cafe Food, Bar Food",2,-37.8092690147,144.9626643956
-354,Q75,3.3,"Coffee and Tea, American",2,-37.8062876529,144.95877821
-355,The Oxford Scholar Hotel,3.3,"Pub Food, Modern Australian",3,-37.8084772637,144.9631746858
-356,Funk Fish Cafe,3.0,Fish and Chips,2,-37.806452419,144.9584888667
-357,Geloso Gelateria,3.9,"Ice Cream, Desserts, Coffee and Tea",1,-37.8073125344,144.9577355012
-358,Little Bang Espresso,3.6,Coffee and Tea,1,-37.8079323835,144.9632554874
-359,Roasted @ QVM,0.0,American,2,-37.8062953349,144.9585897848
-360,Pho7,2.9,"Vietnamese, Pho",2,-37.8149262517,144.9636541307
-361,Thailander - Galleria,3.2,Thai,2,-37.814987171,144.9628746137
-362,Soul Origin,3.1,"Healthy Food, Cafe Food, Coffee and Tea, Sandwich",2,-37.8149985602,144.9629396573
-363,Dari Korean Café and Bar,4.1,"Cafe Food, Korean",2,-37.8140312621,144.961390011
-364,Triim,3.5,"Italian, Mediterranean",4,-37.8140063643,144.9613786116
-365,CHE Desserts,4.0,"Desserts, Beverages, Vietnamese",1,-37.8125026828,144.9619502574
-366,The Cupcake Queens,0.0,"Bakery, Desserts",1,-37.8139284926,144.9613447487
-367,French Saloon Bar & Bistro,4.0,French,4,-37.813597669,144.9612927809
-368,Kirk's Wine Bar,4.0,Bar Food,3,-37.813651173,144.961290434
-369,Chinta Ria Soul,2.9,Malaysian,2,-37.812252905,144.9637235329
-370,I Love Pho Express,3.3,"Vietnamese, Pho, Asian",2,-37.8122833657,144.9638308212
-371,Top Gyoza,2.8,Japanese,2,-37.8150261063,144.9628612027
-372,Thailander - Emporium,0.0,Thai,2,-37.8122415153,144.9637044221
-373,The Honourable Judge,3.0,"Coffee and Tea, Sandwich",2,-37.8123538227,144.9640162289
-374,Larder Section,3.9,"Sandwich, Coffee and Tea, Cafe Food",2,-37.813845853,144.9612998217
-375,Gourmet Curry Hut,3.5,Indian,3,-37.8148409646,144.9640380219
-376,Eva's Restaurant & Bar,0.0,Modern Australian,4,-37.8128139106,144.9646408483
-377,Milksha,4.0,Bubble Tea,1,-37.8149906142,144.9636578187
-379,David Jones Food Hall - Bakery ,0.0,Bakery,2,-37.814179589,144.9648021162
-380,Tazio,4.4,"Italian, Pizza",3,-37.8153031558,144.9711800739
-381,Bowery to Williamsburg,4.4,"American, Coffee and Tea, Cafe Food",3,-37.8162664644,144.970263429
-382,Mrs Singh,3.6,Indian,4,-37.8151829069,144.9712531641
-383,Cafe SoHo - CBD,3.6,"Chinese, Cantonese, Coffee and Tea",2,-37.8137997656,144.9667457119
-384,@Siam Thai Restaurant,4.0,"Thai, Asian",3,-37.8127723253,144.9686356634
-385,Thai Tide,3.8,Thai,3,-37.8127953694,144.9684177339
-386,Joy Cupcakes,3.8,Desserts,1,-37.8130536213,144.9702231959
-387,Max Asian Food,0.0,Asian,2,-37.8138124793,144.9666716158
-388,OK Chicken (Warra Warra Kitchen),4.5,"Fried Chicken, Korean, Asian",3,-37.8141003931,144.9665167183
-389,Roll'd - Southern Cross Lane,2.9,"Vietnamese, Healthy Food",2,-37.8129829001,144.9701413885
-390,KFC,2.8,"Fast Food, Fried Chicken",2,-37.8130790491,144.9674558267
-391,Trinket,3.8,"Italian, Bar Food",4,-37.8152464747,144.971325919
-392,Nashi - SX2 Southern Cross Lane,3.2,"Healthy Food, Salad, Sandwich",1,-37.8129450231,144.9701108784
-393,Swiss Club Restaurant,4.1,"European, Swiss",4,-37.8152666044,144.9713275954
-394,Nana Thai Style Hotpot & BBQ,3.6,"Thai, BBQ, Hot Pot",1,-37.8127108744,144.9685803428
-395,MoVida Bar De Tapas,4.7,"Spanish, Tapas",4,-37.8167026904,144.9691895396
-396,VB Rolls,3.4,"Vietnamese, Sandwich",2,-37.8138408205,144.9665834382
-397,Sushi Land,3.3,Sushi,2,-37.8151654258,144.9714000151
-398,Final Pass,3.4,Drinks Only,1,-37.8131582462,144.9672231451
-399,Pastuso,4.6,"Latin American, Peruvian",4,-37.8158421546,144.9710432813
+,Name,Aggregate Rating,Type,Price,Latitude,Longitude,Sensor ID,Sensor
+0,Little Bang Espresso,3.6,Coffee and Tea,1,-37.8079323835,144.9632554874,61,RMIT Building 14
+1,The College Dropout,3.9,"Burger, Desserts",2,-37.8077411315,144.9635706469,61,RMIT Building 14
+2,Poolhouse Coffee,3.7,"Desserts, Cafe Food",2,-37.8072492248,144.9631207064,61,RMIT Building 14
+3,Standing Room,3.5,"Coffee and Tea, Cafe Food",2,-37.8080274796,144.9634100497,61,RMIT Building 14
+4,Simply Desi Canteen,0.0,Indian,1,-37.807741,144.963711,61,RMIT Building 14
+5,Suzy Lee,0.0,"Dumplings, Japanese, Sushi",2,-37.807453193,144.9636665359,61,RMIT Building 14
+6,Canto Cafe,0.0,"Pizza, Sandwich",2,-37.8075218003,144.9637084454,61,RMIT Building 14
+7,Chippie,0.0,Fast Food,1,-37.8076847094,144.9637885764,61,RMIT Building 14
+8,Holy Guacamoly,0.0,Mexican,1,-37.8077366283,144.9638073519,61,RMIT Building 14
+9,The Vine Coffee Roasters,3.5,"Coffee and Tea, Sandwich",2,-37.8083082638,144.9630563334,61,RMIT Building 14
+10,The Bean Project,3.3,"Coffee and Tea, Sandwich",1,-37.8083620365,144.9630791321,61,RMIT Building 14
+11,STREAT,0.0,Coffee and Tea,1,-37.8078545053,144.9639558792,61,RMIT Building 14
+12,Sichuan Dining Room,3.0,"Chinese, Sichuan",3,-37.8070508188,144.9624910578,61,RMIT Building 14
+13,Kaki Lima,3.7,Indonesian,1,-37.8080966162,144.962255694,61,RMIT Building 14
+14,The Oxford Scholar Hotel,3.3,"Pub Food, Modern Australian",3,-37.8084772637,144.9631746858,61,RMIT Building 14
+16,Pork Belly House Melbourne,3.5,"Chinese, Asian",3,-37.806971,144.962347,61,RMIT Building 14
+17,No.1 Delicious,3.9,Chinese,3,-37.8078693393,144.9618282169,61,RMIT Building 14
+18,Captain Melville,4.3,"Modern Australian, Fusion, Asian",3,-37.8076725243,144.9616817012,61,RMIT Building 14
+19,Sarawak Kitchen Express,3.4,Malaysian,2,-37.8079170198,144.9617055059,61,RMIT Building 14
+28,Sensory Lab - Collins Street,3.5,"Coffee and Tea, Beverages",2,-37.8134866878,144.9725469947,17,Collins Place (South)
+37,Little Collins St Kitchen,3.9,French,4,-37.812888605,144.9727518484,17,Collins Place (South)
+40,Oriental Spoon,4.2,"Korean, Korean BBQ",3,-37.8117684449,144.9619174004,47,Melbourne Central-Elizabeth St (East)
+41,Dong Ting - Little Fish and Rice Town 洞庭渔米湘菜馆,3.3,Chinese,3,-37.8117554659,144.9618775025,47,Melbourne Central-Elizabeth St (East)
+42,Prime Hai Tea,3.4,Bubble Tea,1,-37.8115623696,144.9618265405,47,Melbourne Central-Elizabeth St (East)
+43,G2 Korean BBQ,4.0,"Korean BBQ, Korean",3,-37.8115846194,144.9618231878,47,Melbourne Central-Elizabeth St (East)
+44,Easy Pot by Dainty Sichuan,3.8,Chinese,3,-37.8115324383,144.9618013948,47,Melbourne Central-Elizabeth St (East)
+45,Pepper Lunch,4.0,"Asian, Japanese",3,-37.8114378765,144.9617433921,47,Melbourne Central-Elizabeth St (East)
+46,Fresh Air & Pancake 鲜の芙蕾,3.9,"Desserts, Ice Cream",2,-37.811648,144.96167,47,Melbourne Central-Elizabeth St (East)
+47,Noodle Villa by Dainty Sichuan,3.5,"Chinese, Sichuan",2,-37.8120849733,144.9620394409,47,Melbourne Central-Elizabeth St (East)
+48,Tanghuo Kungfu,3.9,"Chinese, Malatang",2,-37.8120998064,144.9620498344,47,Melbourne Central-Elizabeth St (East)
+49,The Meeting Place,0.0,Bar Food,3,-37.8112969607,144.961640127,47,Melbourne Central-Elizabeth St (East)
+50,Chilli India,4.3,"Indian, South Indian",3,-37.8110405568,144.9623499066,47,Melbourne Central-Elizabeth St (East)
+51,Xing Fu Tang,4.1,"Bubble Tea, Asian, Tea",1,-37.8121925132,144.9620324001,47,Melbourne Central-Elizabeth St (East)
+52,Tokyo Japanese Restaurant,3.9,Japanese,3,-37.8112188212,144.9616032466,47,Melbourne Central-Elizabeth St (East)
+53,Ms Pretea,3.7,"Bubble Tea, Tea",1,-37.812222974,144.961925447,47,Melbourne Central-Elizabeth St (East)
+54,Leshan Fried Skewers,0.0,"Chinese, Asian",1,-37.8122476075,144.9619680271,47,Melbourne Central-Elizabeth St (East)
+55,Umi Rice Yoghurt ,3.1,Drinks Only,1,-37.8122619108,144.961906001,47,Melbourne Central-Elizabeth St (East)
+56,Chilli Everest,3.6,Nepalese,2,-37.8109038784,144.9624065682,47,Melbourne Central-Elizabeth St (East)
+57,The Souffle,2.8,Desserts,2,-37.8115949497,144.9612652883,47,Melbourne Central-Elizabeth St (East)
+58,Pretzel,3.8,Bakery,1,-37.8108291819,144.9624367431,47,Melbourne Central-Elizabeth St (East)
+59,Fourteen on 10,3.6,"Sandwich, Cafe Food",1,-37.810806667,144.9620169774,47,Melbourne Central-Elizabeth St (East)
+60,Ganache Chocolate,4.3,"French, Desserts, Coffee and Tea",2,-37.8159120785,144.9655678868,53,Collins Street (North)
+61,Dymocks Books Cafe,3.8,"Modern Australian, Coffee and Tea, Cafe Food",2,-37.815506572,144.9658223614,53,Collins Street (North)
+62,Royal St. Collins,2.9,"European, Desserts, Coffee and Tea",4,-37.8154249937,144.965033792,53,Collins Street (North)
+63,Papadam,3.2,Indian,2,-37.8154822045,144.9649932236,53,Collins Street (North)
+64,Caffe E Torta Espresso,0.0,"Cafe Food, Coffee and Tea",1,-37.8154679018,144.9650002644,53,Collins Street (North)
+65,Cafe Augusta,0.0,"Salad, Cafe Food",2,-37.8154141343,144.9649915472,53,Collins Street (North)
+66,Lane Restaurant,3.2,Modern Australian,4,-37.8157944792,144.9649372324,53,Collins Street (North)
+67,The Alley Edition,0.0,"Cafe Food, Coffee and Tea",2,-37.8151752258,144.9653241411,53,Collins Street (North)
+68,Whirl'd Juice,3.3,Beverages,2,-37.8161139038,144.9653281644,53,Collins Street (North)
+69,Shujinko - St Collins Lane,3.8,"Japanese, Ramen",2,-37.8153569235,144.9649607018,53,Collins Street (North)
+70,Maccaroni Trattoria Italiana,4.4,Italian,3,-37.8160071642,144.9659581482,53,Collins Street (North)
+71,Think Asia - St Collins Lane,3.2,Asian,2,-37.8153958586,144.9649010226,53,Collins Street (North)
+72,Poke Workshop,3.2,Poké,2,-37.8152671342,144.9650187045,53,Collins Street (North)
+73,Thai Viet Bibigo,4.1,"Japanese, Korean",2,-37.815056301,144.9657724053,53,Collins Street (North)
+74,Get Juicy,0.0,"Juices, Healthy Food",1,-37.815009,144.965645,53,Collins Street (North)
+75,1932 Cafe & Restaurant,3.7,"Coffee and Tea, Cafe Food",3,-37.815414664,144.9662612379,53,Collins Street (North)
+76,Three Drops Espresso,3.8,Cafe Food,2,-37.8157412416,144.9663225934,53,Collins Street (North)
+77,Princes Pies,3.6,"Coffee and Tea, Bakery, Meat Pie",1,-37.8150094197,144.965248704,53,Collins Street (North)
+78,Sushi Boto,3.2,Japanese,3,-37.815139469,144.9649332091,53,Collins Street (North)
+79,Switchboard,4.3,"Sandwich, Coffee and Tea, Cafe Food",2,-37.8152782585,144.9662360922,53,Collins Street (North)
+80,Soul Cafe,3.0,"Coffee and Tea, Cafe Food",3,-37.813075076,144.9652812257,1,Bourke Street Mall (North)
+81,Song Tea,3.5,Bubble Tea,1,-37.8138103604,144.9656000733,1,Bourke Street Mall (North)
+82,Sensory Lab - Bourke Street,3.4,"Coffee and Tea, Sandwich, Desserts",2,-37.8133982206,144.9644993618,1,Bourke Street Mall (North)
+83,SamSam,4.0,Korean,3,-37.8128854265,144.9652101472,1,Bourke Street Mall (North)
+85,The Tasty Spicy Hot Pot,3.2,"Chinese, Malatang",2,-37.8128708585,144.9653952196,1,Bourke Street Mall (North)
+86,Mister Close,4.3,"Healthy Food, Coffee and Tea, Cafe Food",2,-37.8131646031,144.9658857286,1,Bourke Street Mall (North)
+88,Superhiro,3.4,"Japanese, Sushi",3,-37.8127556382,144.9651477858,1,Bourke Street Mall (North)
+89,David Jones Food Hall - Bakery ,0.0,Bakery,2,-37.814179589,144.9648021162,1,Bourke Street Mall (North)
+90,Instea,3.5,"Bubble Tea, Tea",1,-37.812835,144.965579,1,Bourke Street Mall (North)
+91,David Jones Food Hall - Sushi Bar ,0.0,"Japanese, Sushi",2,-37.8142021029,144.9648738653,1,Bourke Street Mall (North)
+92,"Louden Kitchen & Grill - The Swanston Hotel Melbourne, Grand Mercure",2.9,Modern Australian,4,-37.812888605,144.9645935744,1,Bourke Street Mall (North)
+93,David Jones Foodhall - Espresso Bar,3.4,"Bakery, Desserts",1,-37.8142288547,144.9649174511,1,Bourke Street Mall (North)
+94,Pink. The Restaurant,2.2,Italian,4,-37.8140696682,144.9657834694,1,Bourke Street Mall (North)
+95,Eva's Restaurant & Bar,0.0,Modern Australian,4,-37.8128139106,144.9646408483,1,Bourke Street Mall (North)
+96,Rozzi's Italian Canteen,3.0,"Cafe Food, Italian",2,-37.8141165501,144.965801239,1,Bourke Street Mall (North)
+97,Sushi Jin,3.0,"Japanese, Sushi",2,-37.8129240981,144.9659239501,1,Bourke Street Mall (North)
+98,Zao Buer Sichuan Style BBQ 灶不贰把把烧,0.0,"Chinese, BBQ",1,-37.812662,144.964959,1,Bourke Street Mall (North)
+99,Da Hu The Great Tiger 大虎,4.0,"Hot Pot, Chinese",3,-37.812662,144.964924,1,Bourke Street Mall (North)
+100,Father John Cafe,3.3,"Sandwich, Cafe Food",2,-37.80999745,144.9722646922,40,Lonsdale St-Spring St (West)
+101,Hudsons Coffee,3.3,"Coffee and Tea, Sandwich",2,-37.810184723,144.9723193422,40,Lonsdale St-Spring St (West)
+102,Anda Cafe,3.9,"Cafe Food, Coffee and Tea",2,-37.8096923027,144.9720742554,40,Lonsdale St-Spring St (West)
+103,Master Roll Vietnam,3.1,"Asian, Vietnamese",2,-37.8096899188,144.9716105685,40,Lonsdale St-Spring St (West)
+104,Mrs Parma's,4.3,Pub Food,3,-37.8106143629,144.9719136581,40,Lonsdale St-Spring St (West)
+105,Lobby Espresso,0.0,"Sandwich, Coffee and Tea",2,-37.8097505775,144.9714459479,40,Lonsdale St-Spring St (West)
+106,Le Petite Bourke,3.9,"Coffee and Tea, Cafe Food",2,-37.8106090652,144.9717225507,40,Lonsdale St-Spring St (West)
+107,Mezzo,4.0,Italian,4,-37.8106691934,144.9717416614,40,Lonsdale St-Spring St (West)
+108,Standard,0.0,"Cafe Food, Coffee and Tea",2,-37.8092584193,144.9717406556,40,Lonsdale St-Spring St (West)
+109,Federici Bistro,3.9,Modern Australian,4,-37.8108042831,144.9726640061,40,Lonsdale St-Spring St (West)
+110,The Melbourne Supper Club,4.6,Modern European,3,-37.8108705034,144.9726562947,40,Lonsdale St-Spring St (West)
+111,European,4.5,"European, Italian",4,-37.8108956671,144.9727213383,40,Lonsdale St-Spring St (West)
+112,Daughter In Law,3.9,Indian,4,-37.8107423008,144.9714798108,40,Lonsdale St-Spring St (West)
+114,Siglo,4.3,"Bar Food, Modern Australian",3,-37.8109282474,144.9726492539,40,Lonsdale St-Spring St (West)
+115,City Wine Shop,4.6,European,3,-37.8109287772,144.9727196619,40,Lonsdale St-Spring St (West)
+116,Juliet Melbourne,3.6,Bar Food,4,-37.8107698485,144.9714466184,40,Lonsdale St-Spring St (West)
+117,Bar Saracen,4.1,Middle Eastern,4,-37.8104133171,144.9710043892,40,Lonsdale St-Spring St (West)
+118,Punch Lane,4.8,"Mediterranean, Modern Australian",4,-37.8108116997,144.9713500589,40,Lonsdale St-Spring St (West)
+119,Sunda,4.3,"Vietnamese, Indonesian, Malaysian, Asian",4,-37.8105023177,144.9710365757,40,Lonsdale St-Spring St (West)
+120,Black Rabbit Bar,3.6,Bar Food,3,-37.8164942451,144.9611643702,36,Queen St (West)
+121,GG EZ Bar,3.7,"Korean, Burger, Bar Food, American",3,-37.816391479,144.9611670524,36,Queen St (West)
+122,Brioche By Philip,4.1,"Bakery, Patisserie, Coffee and Tea",2,-37.8162084596,144.9610942975,36,Queen St (West)
+123,The Bank on Collins,3.8,Modern Australian,4,-37.8169050433,144.9612696469,36,Queen St (West)
+124,Aki Sushi,2.9,Japanese,2,-37.8161035742,144.9609182775,36,Queen St (West)
+125,iBean,3.9,"Cafe Food, Coffee and Tea",1,-37.8160566935,144.9610668048,36,Queen St (West)
+126,Shamble Coffee Brewers,3.9,Coffee and Tea,1,-37.8161647574,144.9606353045,36,Queen St (West)
+127,BE.AN by Workshop Brothers,3.7,Coffee and Tea,2,-37.8168208179,144.960571602,36,Queen St (West)
+128,Let's Bangkok,3.0,Thai,3,-37.816173233,144.9605736136,36,Queen St (West)
+129,Smokestak,2.9,"American, BBQ, Sandwich",2,-37.8159637267,144.9608864263,36,Queen St (West)
+130,The Irish Times,4.0,"Pub Food, Irish",3,-37.8162060758,144.96052064,36,Queen St (West)
+131,Curry Vault Indian Restaurant & Bar,4.3,Indian,3,-37.8165141097,144.9604093283,36,Queen St (West)
+132,Roti Bar,3.8,Malaysian,3,-37.8159859752,144.960782826,36,Queen St (West)
+133,The Mitre Tavern Steakhouse & Grill,4.2,"Steak, Modern Australian",4,-37.8167853267,144.9604529142,36,Queen St (West)
+134,Little Brother,3.9,Vietnamese,3,-37.8162103136,144.9604539201,36,Queen St (West)
+135,Collins Coffee House ,0.0,"Coffee and Tea, Cafe Food",3,-37.8171653997,144.9614915997,36,Queen St (West)
+136,Mitre Tavern,3.3,"Pub Food, Modern Australian",3,-37.8167553975,144.9603992701,36,Queen St (West)
+137,Lanai,3.4,"Asian, Fusion",3,-37.815893538,144.9608807266,36,Queen St (West)
+138,Natural History Public Bar,3.8,"American, Grill",4,-37.8172162525,144.9612659589,36,Queen St (West)
+139,Tengu Melbourne,3.8,Japanese,2,-37.8162322972,144.960388206,36,Queen St (West)
+140,Kinfolk,4.5,"Cafe Food, Coffee and Tea",3,-37.8169254375,144.9539948255,58,Bourke St - Spencer St (North)
+141,"Seize The Day 
+",0.0,Beverages,2,-37.8165583414,144.9531747401,58,Bourke St - Spencer St (North)
+144,Dot Spot,3.1,Vietnamese,2,-37.8167442734,144.9542875215,58,Bourke St - Spencer St (North)
+145,Genki Sushi,2.3,"Japanese, Sushi",2,-37.8169747013,144.9527935311,58,Bourke St - Spencer St (North)
+147,Theobroma Chocolate Lounge,3.0,"Desserts, Coffee and Tea, Cafe Food",2,-37.8171879127,144.9528907612,58,Bourke St - Spencer St (North)
+149,Red Rooster,2.4,Fast Food,2,-37.817429728,144.9531019852,58,Bourke St - Spencer St (North)
+150,Ha Ha Tea,0.0,"Japanese, Bubble Tea",2,-37.8163122854,144.9530315772,58,Bourke St - Spencer St (North)
+151,YASSAS - The Greek Way,3.6,"Greek, Street Food",3,-37.8169566909,144.9527003244,58,Bourke St - Spencer St (North)
+152,The Burrito Man,3.7,Mexican,2,-37.8169333833,144.9526822195,58,Bourke St - Spencer St (North)
+153,Grains Galore,3.6,"Kebab, Bakery",2,-37.8174853481,144.9531167373,58,Bourke St - Spencer St (North)
+154,Soul Origin,2.9,"Healthy Food, Cafe Food, Coffee and Tea, Sandwich",2,-37.816943183,144.9526295811,58,Bourke St - Spencer St (North)
+155,Ritz Kebab,3.2,"Kebab, Turkish",2,-37.8162444808,144.9530195072,58,Bourke St - Spencer St (North)
+157,The Pizza Project,2.0,"Fast Food, Pizza",2,-37.8169691393,144.9526148289,58,Bourke St - Spencer St (North)
+158,Potto,3.6,Asian,3,-37.8171558648,144.9526584148,58,Bourke St - Spencer St (North)
+159,Kung Fu Tea,3.1,"Beverages, Bubble Tea",1,-37.8174077449,144.9528629333,58,Bourke St - Spencer St (North)
+160,King T,3.2,Bubble Tea,1,-37.8179001136,144.9650394917,22,Flinders St-Elizabeth St (East)
+162,Foodao,3.8,"Chinese, Asian, Fast Food",1,-37.817878,144.965201,22,Flinders St-Elizabeth St (East)
+163,Rocket Burger & Fries,4.2,Burger,2,-37.8180026128,144.9650810659,22,Flinders St-Elizabeth St (East)
+164,Shujinko Flinders,3.6,Japanese,3,-37.8180031425,144.9651984125,22,Flinders St-Elizabeth St (East)
+165,Walker's Doughnuts,4.1,"American, Desserts",2,-37.8180322766,144.9651330337,22,Flinders St-Elizabeth St (East)
+166,Metro Baguette,3.4,"Coffee and Tea, Sandwich",2,-37.8179411663,144.9653177708,22,Flinders St-Elizabeth St (East)
+167,Pepperoni's,2.1,"Pizza, Italian",2,-37.8179530848,144.9647340551,22,Flinders St-Elizabeth St (East)
+168,Hella Good,3.8,Greek,2,-37.8179832783,144.9647444487,22,Flinders St-Elizabeth St (East)
+169,Chunky Town,3.7,"Korean, Fast Food",1,-37.8175997664,144.964922145,22,Flinders St-Elizabeth St (East)
+171,Platform 270,3.6,"Modern Australian, Steak, Grill",4,-37.8178889897,144.9654837325,22,Flinders St-Elizabeth St (East)
+174,Pho Flinders Express,2.9,"Vietnamese, Pho",2,-37.8181527857,144.9647075683,22,Flinders St-Elizabeth St (East)
+175,Ozyaki,3.9,Japanese,2,-37.8174395278,144.9648933113,22,Flinders St-Elizabeth St (East)
+179,Melbourne Halal Food Centre,0.0,"Pizza, Kebab, Fast Food",2,-37.8173979451,144.9648061395,22,Flinders St-Elizabeth St (East)
+180,Josie's Food Bar,3.2,"Pizza, Fast Food",2,-37.8062246072,144.9563501403,27,QV Market-Peel St
+182,Chickilia,3.8,"Korean, Fried Chicken, Asian",2,-37.8061072574,144.9557734653,27,QV Market-Peel St
+183,Chef Panda 888,3.6,"Chinese, Asian, Dumplings",2,-37.8062169252,144.9557144567,27,QV Market-Peel St
+184,Victoria Hotel,0.0,Drinks Only,1,-37.8057040813,144.955800958,27,QV Market-Peel St
+185,Lukumades,4.2,"Bakery, Desserts",2,-37.806326063,144.9556822702,27,QV Market-Peel St
+186,Donwoori,4.4,"Korean BBQ, Korean",3,-37.805901961,144.9572815374,27,QV Market-Peel St
+187,Soolzip Korean BBQ,4.1,"Korean BBQ, Korean",3,-37.805965007,144.9555783346,27,QV Market-Peel St
+188,Market Juice,3.8,"Juices, Beverages",1,-37.8063522879,144.9572825432,27,QV Market-Peel St
+189,Market Lane Cafe,3.4,"Cafe Food, Coffee and Tea",2,-37.8063914927,144.9572902545,27,QV Market-Peel St
+190,The Galbi,0.0,"Korean BBQ, Korean",3,-37.8059138815,144.9574273825,27,QV Market-Peel St
+191,Kebab Connection,3.6,"Kebab, Turkish",2,-37.8057154719,144.9555139616,27,QV Market-Peel St
+192,Hallah,4.1,"Korean BBQ, Korean",3,-37.8059329542,144.9575172365,27,QV Market-Peel St
+193,Loving Hut - West Melbourne,3.9,"Healthy Food, Asian, Vegetarian",3,-37.8059424906,144.9553634226,27,QV Market-Peel St
+194,Churros Spanish Donuts,4.1,Desserts,1,-37.8069472449,144.9563414231,27,QV Market-Peel St
+195,The Drunken Poet,3.6,"Sandwich, Drinks Only",3,-37.8066720182,144.9556282908,27,QV Market-Peel St
+196,Maria's Trattoria,3.9,Italian,3,-37.8051411674,144.9563102424,27,QV Market-Peel St
+197,Toodouri Korean BBQ,4.4,"Korean BBQ, Korean, Asian",3,-37.8059493779,144.9577100202,27,QV Market-Peel St
+198,Dutch Pancakes,3.1,"Dutch, Desserts",1,-37.8070558518,144.9567970634,27,QV Market-Peel St
+199,Pizza @ QV,0.0,Pizza,2,-37.8071247244,144.9561402574,27,QV Market-Peel St
+200,HongKongBoi,3.9,"Asian, Desserts, Ice Cream",2,-37.8087495698,144.9593421444,51,QVM-Franklin St (North)
+201,Ichigo,3.6,"Japanese, Cafe Food, Coffee and Tea",1,-37.8086573884,144.9595429748,51,QVM-Franklin St (North)
+202,YOI,4.2,"Asian, Indonesian",2,-37.8088195004,144.9593857303,51,QVM-Franklin St (North)
+203,Plus 852 Cafe,3.5,"Chinese, Coffee and Tea",3,-37.8088496976,144.9594195932,51,QVM-Franklin St (North)
+204,Mary's,3.2,"Burger, Bar Food",3,-37.808952,144.959278,51,QVM-Franklin St (North)
+205,Jojo Little Kitchen,4.1,Malaysian,2,-37.8089304886,144.9595439807,51,QVM-Franklin St (North)
+206,Pelicana Chicken,3.2,"Korean, Fried Chicken",3,-37.8089945914,144.9595563859,51,QVM-Franklin St (North)
+207,Daboba,4.1,Bubble Tea,1,-37.8090382979,144.9595104531,51,QVM-Franklin St (North)
+208,Mala 1+1 (麻辣 1+1),3.5,"Chinese, Malatang",2,-37.8079186092,144.9600710347,51,QVM-Franklin St (North)
+210,Sarawak Kitchen,4.2,"Chinese, Malaysian",2,-37.8079718524,144.9601300433,51,QVM-Franklin St (North)
+211,Once For All,3.7,Bubble Tea,1,-37.8080364859,144.9601696059,51,QVM-Franklin St (North)
+213,Phancy Cafe,3.7,"Coffee and Tea, Cafe Food",2,-37.8091866349,144.9582082406,51,QVM-Franklin St (North)
+214,The Borek Bakehouse,4.4,"Bakery, Middle Eastern",1,-37.8077111987,144.9600053206,51,QVM-Franklin St (North)
+215,Invita,3.9,"Vegetarian, Coffee and Tea, Cafe Food",3,-37.8073935919,144.958909303,51,QVM-Franklin St (North)
+216,Market Espresso,3.8,"Sandwich, Coffee and Tea, Cafe Food",1,-37.8080619154,144.9578106031,51,QVM-Franklin St (North)
+217,Malaysian Laksa House,3.8,Malaysian,3,-37.8085646772,144.9603898823,51,QVM-Franklin St (North)
+218,Pondok Rempah,3.6,Indonesian,3,-37.8075575609,144.9599235132,51,QVM-Franklin St (North)
+219,Hero Tang Tea 黑泷堂,3.4,"Bubble Tea, Tea, Beverages",1,-37.8087093067,144.9604592845,51,QVM-Franklin St (North)
+221,Denton Wine Bar,3.4,"Modern European, Bar Food",3,-37.8144396902,144.9743142352,75,Spring St- Flinders st (West)
+223,Felt Restaurant - Hotel Lindrum,3.9,"Contemporary, Italian, Australian",4,-37.815514518,144.97373119,75,Spring St- Flinders st (West)
+225,Cumulus Up,4.4,"European, Contemporary",4,-37.8149021488,144.9732520804,75,Spring St- Flinders st (West)
+227,Cumulus Inc.,4.7,"Modern European, Contemporary",4,-37.814794348,144.9731357396,75,Spring St- Flinders st (West)
+228,Tom Thumb,3.9,"Coffee and Tea, Sandwich",1,-37.8148330186,144.9728956819,75,Spring St- Flinders st (West)
+229,Mugs Alley,3.9,Cafe Food,3,-37.8162084596,144.975952059,75,Spring St- Flinders st (West)
+236,Cecconi's Flinders Lane Restaurant,4.4,"European, Italian",4,-37.8149302247,144.972592257,75,Spring St- Flinders st (West)
+240,Loch & Key,3.5,Bar Food,3,-37.8075737193,144.9616337568,61,RMIT Building 14
+241,Open Standard,0.0,"Coffee and Tea, Cafe Food",2,-37.8086301049,144.9640524387,61,RMIT Building 14
+242,Boss D Hot Pot Rice Noodle,3.4,"Hot Pot, Chinese",2,-37.8088825438,144.9633299187,61,RMIT Building 14
+243,Nice to Meet You,3.0,"Bubble Tea, Desserts",1,-37.8088600283,144.9626875296,61,RMIT Building 14
+244,Joomak,4.4,Korean,3,-37.8089405543,144.9633641169,61,RMIT Building 14
+245,NO. 1 Spicy Pot,2.9,"Chinese, Malatang",3,-37.8088798949,144.9624749646,61,RMIT Building 14
+246,Panda Hot Pot  蜀大侠老火锅,4.4,"Chinese, Hot Pot",3,-37.8067106931,144.9642291293,61,RMIT Building 14
+247,Wonderbao,4.6,"Chinese, Taiwanese",1,-37.8089773737,144.9627716839,61,RMIT Building 14
+248,Podium,3.5,"Continental, Coffee and Tea, Cafe Food",2,-37.8068460548,144.9617289752,61,RMIT Building 14
+250,Holy Crumpets,3.9,"Cafe Food, Coffee and Tea",1,-37.8091516698,144.963359423,61,RMIT Building 14
+251,Darac Grill & Bar,4.5,"Korean, Asian",3,-37.8089763142,144.9620451406,61,RMIT Building 14
+253,Little Charley,0.0,"Cafe Food, Bar Food",2,-37.8092690147,144.9626643956,61,RMIT Building 14
+254,Dear Fry Day 亲爱哒炸串包子铺,3.3,"Chinese, Asian",2,-37.8092933843,144.9635304138,61,RMIT Building 14
+255,The Orient Hot Pot,3.8,"Chinese, Hot Pot, Sichuan",4,-37.8090205504,144.9618624151,61,RMIT Building 14
+256,Chickcha,3.7,"Coffee and Tea, Cafe Food",2,-37.8090732631,144.9617665261,61,RMIT Building 14
+257,B'Churrasco,4.4,"BBQ, Brazilian, Steak",4,-37.8090780311,144.9616310746,61,RMIT Building 14
+258,Spice Up Hot Pot Dips,4.0,"Chinese, Malatang",2,-37.809382916,144.9622862041,61,RMIT Building 14
+259,Coffee On Cardigan,3.2,"Coffee and Tea, Cafe Food",1,-37.8059851393,144.9643960968,61,RMIT Building 14
+262,Liaison Cafe,3.9,"Coffee and Tea, Cafe Food",2,-37.8129778675,144.9724316597,17,Collins Place (South)
+265,Terrace Bar - Sheraton Melbourne Hotel,3.1,"Bar Food, Modern Australian",3,-37.8127606708,144.9727119505,17,Collins Place (South)
+266,Koko Black,4.0,"Coffee and Tea, Desserts",1,-37.8137677162,144.9720004946,17,Collins Place (South)
+269,Tsuru Japanese Restaurant,4.0,"Japanese, Fusion",4,-37.8126552508,144.9726204202,17,Collins Place (South)
+270,Little Bean Blue,4.2,"Coffee and Tea, Cafe Food",2,-37.8125471818,144.9730022997,17,Collins Place (South)
+271,The Hydrant Espresso Bar ,0.0,"Cafe Food, Coffee and Tea",2,-37.8126499533,144.9725909159,17,Collins Place (South)
+272,Bar Lourinhã,4.6,"Spanish, Tapas",4,-37.8127039877,144.9724739045,17,Collins Place (South)
+274,Up Top,3.8,"Coffee and Tea, Cafe Food, Burger",2,-37.8125304947,144.9730378389,17,Collins Place (South)
+276,Coffee Exchange,4.2,"Coffee and Tea, Cafe Food",2,-37.8125122183,144.9731333926,17,Collins Place (South)
+279,Lupino,4.5,Italian,4,-37.8127357726,144.9723572284,17,Collins Place (South)
+280,Hakoya Izakaya,4.1,"Japanese, Fusion, Asian",3,-37.8123479955,144.9616931006,47,Melbourne Central-Elizabeth St (East)
+281,Mamak,4.2,Malaysian,3,-37.8123583256,144.9616223574,47,Melbourne Central-Elizabeth St (East)
+282,Pick-A-Stick by Dainty Sichuan,3.8,"Asian, BBQ, Chinese",2,-37.8107144882,144.9624028802,47,Melbourne Central-Elizabeth St (East)
+283,CHE Desserts,4.0,"Desserts, Beverages, Vietnamese",1,-37.8125026828,144.9619502574,47,Melbourne Central-Elizabeth St (East)
+284,Son In Law The Pad,3.7,"Thai, Asian",2,-37.8106538303,144.962288551,47,Melbourne Central-Elizabeth St (East)
+285,Qipo Skewer Bar 七婆串串香,4.0,"Hot Pot, Chinese, Asian",3,-37.8114264867,144.9610104784,47,Melbourne Central-Elizabeth St (East)
+286,SamSam Melbourne Central,3.4,"Fried Chicken, Street Food, Korean",3,-37.8106450892,144.9621762335,47,Melbourne Central-Elizabeth St (East)
+287,Ajisen Ramen,4.0,"Japanese, Ramen",3,-37.8106533005,144.9624005333,47,Melbourne Central-Elizabeth St (East)
+288,Frozen by a Thousand Blessings,4.3,"Desserts, Frozen Yogurt",1,-37.8110275777,144.9631813914,47,Melbourne Central-Elizabeth St (East)
+289,Duri,3.5,"Bakery, Desserts",1,-37.8123993814,144.9614962935,47,Melbourne Central-Elizabeth St (East)
+291,Urban Fox,3.5,"Coffee and Tea, Sandwich",2,-37.8110657205,144.9632390589,47,Melbourne Central-Elizabeth St (East)
+292,365 Foodstore,3.1,"Cafe Food, Coffee and Tea",1,-37.8106988602,144.962689206,47,Melbourne Central-Elizabeth St (East)
+293,Little Sparrow,3.3,"Cafe Food, Coffee and Tea",2,-37.8110577741,144.9632548168,47,Melbourne Central-Elizabeth St (East)
+294,Green Me Yoghurt 谷米牧场,3.6,Desserts,1,-37.8113406659,144.9609702453,47,Melbourne Central-Elizabeth St (East)
+295,LOMAH,3.7,Mediterranean,2,-37.8105929074,144.9621175602,47,Melbourne Central-Elizabeth St (East)
+296,Shortstop Coffee & Donuts,4.6,"Desserts, Coffee and Tea",1,-37.8113176213,144.960966222,47,Melbourne Central-Elizabeth St (East)
+297,Oporto,3.2,Fast Food,2,-37.8106869405,144.9627800658,47,Melbourne Central-Elizabeth St (East)
+298,Nosh,3.4,"Poké, Healthy Food, Fusion",2,-37.8109968515,144.9632846564,47,Melbourne Central-Elizabeth St (East)
+299,Billy's Central,4.1,"Coffee and Tea, Cafe Food",3,-37.8117424869,144.9635200203,47,Melbourne Central-Elizabeth St (East)
+300,Bar Americano,4.3,Drinks Only,3,-37.8149477059,144.9656895921,53,Collins Street (North)
+302,Saint Dreux,4.1,"Japanese, Sandwich, Coffee and Tea",3,-37.8151770799,144.9647712708,53,Collins Street (North)
+305,Meat the Challenge,3.1,"American, BBQ",3,-37.815135496,144.9647256732,53,Collins Street (North)
+306,Aix Café Creperie Salon,4.2,"French, Crepes, Coffee and Tea, Cafe Food",2,-37.8164394189,144.9654833973,53,Collins Street (North)
+307,The Charles Dickens Tavern,3.8,Pub Food,4,-37.815619934,144.9644815922,53,Collins Street (North)
+308,Barbarella Gelato & Wine,3.9,"Cafe Food, Desserts, Coffee and Tea",2,-37.8155463017,144.9644624814,53,Collins Street (North)
+309,La Crēperie Saint-Germain,3.4,"French, Crepes",3,-37.8155174315,144.9644142017,53,Collins Street (North)
+310,Brown Sugar Café,3.7,"Continental, Coffee and Tea, Cafe Food",3,-37.8154273775,144.9643947557,53,Collins Street (North)
+311,Glamp Cocktail Bar,3.6,"African, Bar Food",3,-37.8147495855,144.9656369537,53,Collins Street (North)
+312,Vicolino,3.0,"Mediterranean, Coffee and Tea, Cafe Food",3,-37.8165427147,144.9654535577,53,Collins Street (North)
+313,Jungle Juice,4.5,"Coffee and Tea, Cafe Food",3,-37.8165519848,144.9655346945,53,Collins Street (North)
+314,30 Block Place,3.7,"Mediterranean, Cafe Food, Coffee and Tea",3,-37.8153285829,144.9644125253,53,Collins Street (North)
+315,Hell's Kitchen,4.0,"BBQ, American",3,-37.8165567523,144.9655390531,53,Collins Street (North)
+316,Polēpolē,4.1,"African, Contemporary",4,-37.8147291907,144.9656238779,53,Collins Street (North)
+318,B3 Café,4.2,"Bakery, Sandwich",1,-37.8165684061,144.965496473,53,Collins Street (North)
+319,Euro Lane Cafe,2.5,"Coffee and Tea, Cafe Food",3,-37.8165861518,144.965560846,53,Collins Street (North)
+320,Pad Thai Restaurant,4.1,Thai,2,-37.8129060867,144.9659333378,1,Bourke Street Mall (North)
+321,David Jones Foodhall - Juice Bar,3.7,"Juices, Healthy Food",1,-37.8143260616,144.964902699,1,Bourke Street Mall (North)
+323,The Salon Bar & Cafe,3.9,"Sandwich, Coffee and Tea",3,-37.8134959583,144.9639575556,1,Bourke Street Mall (North)
+324,Yifang Taiwan Fruit Tea - Swanston 一芳臺灣水果茶,3.1,"Bubble Tea, Asian",1,-37.8141811783,144.9660050869,1,Bourke Street Mall (North)
+325,8bit.- CBD,4.1,"American, Burger",3,-37.8125281108,144.965072684,1,Bourke Street Mall (North)
+326,Gongcha,3.0,"Bubble Tea, Taiwanese",1,-37.8142185248,144.9660060927,1,Bourke Street Mall (North)
+328,The Grand BBQ,4.1,"Chinese, BBQ",2,-37.8129635643,144.9662548676,1,Bourke Street Mall (North)
+331,The Cultured Salad,3.5,"Cafe Food, Salad, Coffee and Tea",2,-37.8144727987,144.9646680057,1,Bourke Street Mall (North)
+332,Tsujiri,3.7,"Japanese, Desserts, Coffee and Tea",1,-37.8142781203,144.966047667,1,Bourke Street Mall (North)
+334,Gopal's Vegetarian,4.4,"Indian, Healthy Food, Vegetarian",2,-37.8143541377,144.9659447372,1,Bourke Street Mall (North)
+335,Brunetti,4.0,"Desserts, Coffee and Tea, Cafe Food",2,-37.8135505219,144.9638036639,1,Bourke Street Mall (North)
+336,A Little Joy 勿相忘,3.7,"Chinese, Dumplings",2,-37.8127672927,144.9661479145,1,Bourke Street Mall (North)
+337,Happy Me Yoghurt,0.0,Bubble Tea,1,-37.8127042526,144.966070801,1,Bourke Street Mall (North)
+338,Liji Malatang,3.7,"Chinese, Malatang",2,-37.812756168,144.9661455676,1,Bourke Street Mall (North)
+339,Dainty Sichuan - Tina's Noodle Kitchen,3.7,Asian,3,-37.8124060032,144.9650173634,1,Bourke Street Mall (North)
+340,Spring Street Grocer,4.6,"Ice Cream, Cafe Food",1,-37.8110479735,144.9726968631,40,Lonsdale St-Spring St (West)
+341,Mellow Beans,0.0,"Coffee and Tea, Cafe Food",1,-37.8096372066,144.9709487334,40,Lonsdale St-Spring St (West)
+342,Gelateria Primavera,4.4,"Ice Cream, Desserts",1,-37.8110786996,144.9727806822,40,Lonsdale St-Spring St (West)
+344,Kenny's Bakery Cafe,3.5,"Bakery, Coffee and Tea, Sandwich",2,-37.8099606311,144.9707385153,40,Lonsdale St-Spring St (West)
+345,Sir Osborn Cafe,0.0,"Cafe Food, Coffee and Tea",2,-37.8091935219,144.9734559283,40,Lonsdale St-Spring St (West)
+347,Bamboo House,4.3,Chinese,4,-37.8108612325,144.9711411819,40,Lonsdale St-Spring St (West)
+348,Shark Fin Inn 食為先,4.2,"Chinese, Asian, Yum Cha",4,-37.810802164,144.971056357,40,Lonsdale St-Spring St (West)
+349,Bobby's Coffee & Bagels,3.9,"American, Cafe Food, Coffee and Tea",2,-37.8101720085,144.9706831947,40,Lonsdale St-Spring St (West)
+351,SPQR Pizzeria,4.2,"Italian, Pizza",3,-37.8110665151,144.9713614583,40,Lonsdale St-Spring St (West)
+352,Roll'd - 50 Lonsdale,2.8,"Vietnamese, Healthy Food",2,-37.8091524644,144.9709517509,40,Lonsdale St-Spring St (West)
+353,RuYi Modern Chinese,4.1,"Chinese, Contemporary, Asian",4,-37.8112196159,144.9714912102,40,Lonsdale St-Spring St (West)
+354,Bodega Underground,3.7,Mexican,3,-37.810960298,144.9710100889,40,Lonsdale St-Spring St (West)
+355,Shuji Sushi,0.0,"Sushi, Japanese",2,-37.8091408094,144.9708806723,40,Lonsdale St-Spring St (West)
+356,Babbo,3.8,"Italian, Coffee and Tea",3,-37.8090825342,144.9709309638,40,Lonsdale St-Spring St (West)
+357,Little Lon Distilling Co,0.0,Drinks Only,1,-37.8088859873,144.9711227417,40,Lonsdale St-Spring St (West)
+358,New Gold Mountain,4.2,Drinks Only,3,-37.8112042528,144.9713017792,40,Lonsdale St-Spring St (West)
+359,The Imperial Hotel,3.9,"Pizza, Pub Food",4,-37.8113499366,144.9728722125,40,Lonsdale St-Spring St (West)
+360,Club Colombia,4.1,"Colombian, Cafe Food",3,-37.8158085169,144.9612341076,36,Queen St (West)
+362,Syracuse,4.1,"Australian, Contemporary",4,-37.8163965114,144.9602681771,36,Queen St (West)
+364,Dikstein's Corner Bar,4.2,"Coffee and Tea, Pizza, Cafe Food",3,-37.8162545456,144.9602966756,36,Queen St (West)
+365,CQ Nightclub,3.3,Bar Food,3,-37.8158164628,144.9608042836,36,Queen St (West)
+367,Taco Bill,2.8,Mexican,3,-37.8171238169,144.9605548382,36,Queen St (West)
+368,Little Colin,3.6,"Coffee and Tea, Sandwich",2,-37.8163072531,144.960218221,36,Queen St (West)
+369,Koi Koi,3.8,"Asian Fusion, Pan Asian",3,-37.8161811788,144.9621728808,36,Queen St (West)
+370,Marrakech Cocktail Bar,3.1,Drinks Only,3,-37.8162781183,144.9602004513,36,Queen St (West)
+372,The Sherlock Holmes,4.0,"British, Pub Food",4,-37.8173375575,144.9608294293,36,Queen St (West)
+374,Cafe Intimo,3.9,"Italian, Coffee and Tea, Cafe Food",3,-37.816328442,144.9601300433,36,Queen St (West)
+375,Makan,4.2,Indonesian,4,-37.8162444808,144.9622774869,36,Queen St (West)
+376,Daha Bar,3.3,Bar Food,3,-37.815695685,144.9607985839,36,Queen St (West)
+377,Dr. Watson's Bar,0.0,Modern Australian,4,-37.8173526544,144.9607694149,36,Queen St (West)
+378,PappaRich - Collins Express,2.5,Malaysian,3,-37.8158371222,144.9619663507,36,Queen St (West)
+379,Sushi & Nori,3.6,"Japanese, Sushi",3,-37.8158146088,144.9619868025,36,Queen St (West)
+380,Delicious Asian Cuisine,3.5,"Asian, Vietnamese",2,-37.8176212198,144.9532337487,58,Bourke St - Spencer St (North)
+381,Mrs. Fields Bakery Café  - Spencer Street,3.1,"Cafe Food, Coffee and Tea, Desserts",1,-37.8171389138,144.952593036,58,Bourke St - Spencer St (North)
+382,Coffee Canteen,0.0,Coffee and Tea,2,-37.8170454187,144.9525524676,58,Bourke St - Spencer St (North)
+383,New Zealand Natural,3.1,Ice Cream,1,-37.8171256709,144.9525749311,58,Bourke St - Spencer St (North)
+386,Tower Sushi,3.0,"Japanese, Sushi",2,-37.8176688941,144.953071475,58,Bourke St - Spencer St (North)
+387,Bon Bon Boy,3.0,Vietnamese,2,-37.8160389477,144.952936694,58,Bourke St - Spencer St (North)
+388,In A Rush,3.4,"Cafe Food, Coffee and Tea, Sandwich",2,-37.8177104766,144.952971898,58,Bourke St - Spencer St (North)
+389,Higher Ground,4.2,"Cafe Food, Coffee and Tea",3,-37.815970878,144.9530480057,58,Bourke St - Spencer St (North)
+390,Lindt Chocolate Cafe,3.7,"Desserts, Coffee and Tea, Cafe Food",2,-37.8163260582,144.9525145814,58,Bourke St - Spencer St (North)
+391,Sandwich Chefs,2.6,Sandwich,2,-37.8163718793,144.9523724243,58,Bourke St - Spencer St (North)
+392,Network Public Bar & Pizzeria,3.7,"Modern Australian, Bar Food",3,-37.8179258046,144.9532531947,58,Bourke St - Spencer St (North)
+393,The Alexander Bar,0.0,"European, Coffee and Tea",4,-37.8179223615,144.9539569393,58,Bourke St - Spencer St (North)
+394,The Coffee Club,2.7,"Coffee and Tea, Cafe Food",3,-37.8162963937,144.9523409084,58,Bourke St - Spencer St (North)
+395,May Yu Dessert,4.0,Desserts,3,-37.8157205822,144.9541232362,58,Bourke St - Spencer St (North)
+396,Come Back to Earth Coffee Brewer,3.9,"Cafe Food, Coffee and Tea",1,-37.8178746874,144.9546767771,58,Bourke St - Spencer St (North)
+397,Inzone Cafe,3.1,"Coffee and Tea, Cafe Food",2,-37.8180219472,144.9544159323,58,Bourke St - Spencer St (North)
+398,Royal Melbourne Hotel,2.8,Modern Australian,3,-37.816716728,144.9552769214,58,Bourke St - Spencer St (North)
+399,BrimCC,4.6,Japanese,2,-37.8178720389,144.9548001587,58,Bourke St - Spencer St (North)
+402,Nang,3.7,Vietnamese,3,-37.8181986056,144.9644936621,22,Flinders St-Elizabeth St (East)
+405,Scoop't Artisan Gelato,3.1,Ice Cream,1,-37.8182303882,144.9644135311,22,Flinders St-Elizabeth St (East)
+407,Tulip,3.9,"Coffee and Tea, Cafe Food",1,-37.8176341978,144.9658756703,22,Flinders St-Elizabeth St (East)
+408,Osaka Bench,3.2,"Japanese, Asian",2,-37.8171921504,144.9649181217,22,Flinders St-Elizabeth St (East)
+409,Persian Grill,3.1,"Kebab, Iranian",2,-37.8172414141,144.9646998569,22,Flinders St-Elizabeth St (East)
+411,Doughnut Time,3.1,Desserts,1,-37.8177102117,144.9659256265,22,Flinders St-Elizabeth St (East)
+412,Yuzu at Degraves,3.2,Japanese,3,-37.8174959424,144.9658173323,22,Flinders St-Elizabeth St (East)
+413,The Joint Bar,3.0,Modern Australian,3,-37.8173531842,144.9644608051,22,Flinders St-Elizabeth St (East)
+414,Cup of Truth,4.3,Coffee and Tea,1,-37.8178058249,144.9659547955,22,Flinders St-Elizabeth St (East)
+415,Grill'd - Degraves Street,3.9,Burger,2,-37.8174437655,144.9657874927,22,Flinders St-Elizabeth St (East)
+416,Migo's,4.2,"Coffee and Tea, Cafe Food",2,-37.8171410327,144.9650052935,22,Flinders St-Elizabeth St (East)
+417,Sal's Pizza,4.0,Pizza,2,-37.8171296438,144.9650210515,22,Flinders St-Elizabeth St (East)
+419,Il Tempo 2 - Pasta Bar,3.2,Italian,4,-37.8174673378,144.9659024924,22,Flinders St-Elizabeth St (East)
+420,Market Kebab,0.0,Kebab,2,-37.8071392936,144.9561878666,27,QV Market-Peel St
+421,South Melbourne Market Dim Sims,3.7,"Fast Food, Asian",1,-37.8071652533,144.9563132599,27,QV Market-Peel St
+422,Gozleme Turkish Cafe,3.1,"Middle Eastern, Kebab",2,-37.8071856502,144.9563974142,27,QV Market-Peel St
+423,Merlo Coffee Roasters,3.7,Coffee and Tea,1,-37.8071567767,144.9559766427,27,QV Market-Peel St
+424,Tribal Cafe,0.0,"Coffee and Tea, Cafe Food",2,-37.8072052523,144.956844002,27,QV Market-Peel St
+426,Central Club Hotel,3.6,Pub Food,3,-37.8060010332,144.9581462145,27,QV Market-Peel St
+427,Chimac,4.4,"Korean, Asian, Korean BBQ, Fried Chicken",3,-37.8072174375,144.9555256963,27,QV Market-Peel St
+428,Shop30 Wonton,0.0,"Chinese, Coffee and Tea",2,-37.8057395778,144.9581804127,27,QV Market-Peel St
+429,Romeo's Food Bar,0.0,"Coffee and Tea, Cafe Food",2,-37.8072847206,144.9574287236,27,QV Market-Peel St
+430,Mr Burger,4.3,"Burger, Fast Food",2,-37.8074926621,144.9571065232,27,QV Market-Peel St
+431,Teaser,3.7,"Bubble Tea, Tea",1,-37.8074052472,144.955490157,27,QV Market-Peel St
+432,Phat Fried Ice Cream,3.4,"Ice Cream, Asian",1,-37.8075837853,144.9568134919,27,QV Market-Peel St
+433,Nahm Tao Thai Kitchen,3.8,Thai,3,-37.8056277901,144.9545165151,27,QV Market-Peel St
+434,Geloso Gelateria,3.9,"Ice Cream, Desserts, Coffee and Tea",1,-37.8073125344,144.9577355012,27,QV Market-Peel St
+435,Funk Fish Cafe,3.0,Fish and Chips,2,-37.806452419,144.9584888667,27,QV Market-Peel St
+436,Original Chai Co,3.7,Tea,1,-37.8072153183,144.9580359086,27,QV Market-Peel St
+437,Roasted @ QVM,0.0,American,2,-37.8062953349,144.9585897848,27,QV Market-Peel St
+438,Café Verona,3.1,"Coffee and Tea, Cafe Food",2,-37.8062426203,144.9585998431,27,QV Market-Peel St
+439,Don Camillo,3.7,"Coffee and Tea, Cafe Food",3,-37.8058386502,144.9542804807,27,QV Market-Peel St
+440,Menya Ramen - Elizabeth Street,3.8,"Japanese, Ramen",3,-37.8087498347,144.9604448676,51,QVM-Franklin St (North)
+441,American Doughnut Kitchen,4.5,Desserts,1,-37.8074648483,144.9582578614,51,QVM-Franklin St (North)
+442,Happy Lemon - Elizabeth Street,3.9,"Coffee and Tea, Beverages",1,-37.8080248307,144.9604512379,51,QVM-Franklin St (North)
+443,Jasper Kitchen & Bar,3.5,Modern Australian,4,-37.8074105451,144.9598118663,51,QVM-Franklin St (North)
+444,Rose Garden BBQ,4.6,"Chinese, BBQ",2,-37.8088110239,144.9604656547,51,QVM-Franklin St (North)
+445,David's Spicy Pot大味麻辣烫 - Elizabeth Street,4.4,"Chinese, Malatang",3,-37.8079175496,144.9604297802,51,QVM-Franklin St (North)
+446,Chef David 大味江湖,4.1,"Chinese, Hot Pot, Asian, BBQ, Cabinet Food",4,-37.80785,144.960397,51,QVM-Franklin St (North)
+447,Mansae Korean BBQ & Bar,4.5,"Korean, Korean BBQ",4,-37.8095630386,144.9596073479,51,QVM-Franklin St (North)
+448,Butterlake Pancakes,3.4,"Desserts, Taiwanese",1,-37.8072187619,144.9593739957,51,QVM-Franklin St (North)
+449,Dragon Hot Pot,4.0,Malatang,2,-37.8088743323,144.9605139345,51,QVM-Franklin St (North)
+451,Queen Victoria Market Cake Shop,3.3,"Desserts, Bakery",1,-37.8071973055,144.9593807012,51,QVM-Franklin St (North)
+452,Kicks,3.4,Pub Food,3,-37.8084155443,144.960655421,51,QVM-Franklin St (North)
+455,The Borek Shop,4.4,"Bakery, Turkish",1,-37.807176114,144.9594024941,51,QVM-Franklin St (North)
+456,Biang Biang古城秦味,3.9,"Chinese, Street Food",3,-37.809082,144.960457,51,QVM-Franklin St (North)
+457,Ladle and Tong,3.8,Healthy Food,2,-37.8071263138,144.9593558908,51,QVM-Franklin St (North)
+458,Parco Project x Shujinko,3.9,"Japanese, Italian",3,-37.8089688973,144.9605876952,51,QVM-Franklin St (North)
+459,Bratwurst Shop & Co,4.3,"Fast Food, German, Eastern European",1,-37.8070987648,144.9593146518,51,QVM-Franklin St (North)
+471,Top Juice,3.4,"Beverages, Healthy Food, Salad",2,-37.8145318643,144.9722610042,75,Spring St- Flinders st (West)
+476,Petit Cafe,0.0,"Coffee and Tea, Cafe Food",1,-37.8157658739,144.9721242115,75,Spring St- Flinders st (West)
+477,The Fair Trader,3.9,"Coffee and Tea, Cafe Food",3,-37.8155513341,144.9720055237,75,Spring St- Flinders st (West)
+478,Vacation Coffee,4.1,Coffee and Tea,2,-37.8159594889,144.9721560627,75,Spring St- Flinders st (West)
