@@ -1,5 +1,0 @@
-Hello team mates!
-
-I managed to create this file in my branch and then merge the branch into main.
-
-Yeehaa! ;)
