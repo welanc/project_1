@@ -74,8 +74,8 @@ Our topic raised three questions, with the following hypotheses, null and altern
 >
 >**_Alternative Hypothesis:_** If foot traffic influences the type of eatery, then this may vary between location types (e.g. office areas, shopping areas, tourism areas)?
 
-# Data sources
 
+# Data sources
 
 City of Melbourne Open Data - Pedestrian Count System:
 -   **url:** http://www.pedestrian.melbourne.vic.gov.au/#
@@ -91,6 +91,7 @@ Zomato API - Restaurants Search URL:
 -   **organisation:** Zomato Media Pty Ltd
 -   **how data was retrieved:** API calls using Python requests.get() and stored as .json()
 
+
 # Data Wrangling
 
 This process required combining three sources of data: the City of Melbourne's Open Data Pedestrian Count System containing number of pedestrians per hour per day (we focused on 2019 data only, as 2020 data was an exceptional year and thus unreliable,) City of Melbourne's sensor location dataset which cotained information such as latitude and longitude of each sensor, which we could then use to do an API search of Zomato's data around the sensor latitudes and longitudes that we wanted.
@@ -100,12 +101,46 @@ The data wrangling process was handled in **Jupyter Notebook**, unless noted oth
 ## City of Melbourne Open Data: Pedestrian Count System
 
  1. Having retrieved the full hourly dataset from City of Melbourne's Open Data website a multiple CSV files per month (i.e. hourly data for January 2019, February 2019, March 2019, etc.) the datasets were combined in Microsoft Excel. During this process, it was found that there were some inconsistencies in column names/arrangement between some months, and so manual cleanup within excel was performed to tidy up the data as a consolidated CSV file.
- 2. Following step 1, the CSV file was then imported to Jupyter Notebook and reduced to 3 sensors **(for Thursday's Presentation)** and then exported as a new CSV file.
+ 2. Following step 1, the CSV file was then imported to Jupyter Notebook and reduced to 3 sensors **(for Thursday's Presentation)** and then exported as a new CSV file. These locations were chosen as it was found that they had different levels of foot traffic: one was high, medium and low, and they were far enough apart that they would not overlap in terms of restaurant data and may provide insight into different locations types: 
+	 - Bourke Street Mall: retail/commercial district
+	 - Queen Vic Market/Elizabeth St: retail/tourist district
+	 - Flinders St/Spark La: office district
+	
  3. The new, reduced CSV file, was then imported to a new Jupyter Notebook, and count and datatypes tested to confirm number of datapoints and the data types of each column. 
  4. Faulty data was discovered (pedestrian counts of -1), which were removed from the dataframe by performing a conditional loc search on all columns where the values did not equal -1. This was confirmed through a count and checking the minimum and maximum values remaining in the dataframe.
- 5. The cleaned dataframe was then grouped by date and averaged to get the average per day count (aggregating the hourly rows into a single day average)
- 6. The dataframe was then transposed such that the locations became the index and the dates became the columns, in order to perform a statistical analysis using the .describe() method on the dataframe.
+ 5. The cleaned dataframe was then grouped by date and averaged to get the average per day count (aggregating the hourly rows into a single day average.)
+ 6.  The dataframe was then transposed such that the locations became the index and the dates became the columns, in order to perform a statistical analysis using the .describe() method on the dataframe.
 
 ## City of Melbourne Open Data: Pedestrian Count System Location Dataset
 
  1. The dataset was retrieved online at: https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Sensor-Locations/h57g-5234 on 15 January 2021 as a CSV file. No further cleaning of the data was required in this form.
+
+## Zomato API restaurant search
+
+ 1. Import City of Melbourne's sensor location csv data as a pandas dataframe.
+ 2. Do a .loc() search to filter down to only three locations. 
+ 3. Run a looped API call to extract maximum 40 restaurants within 50 metres of the three sensor locations and append as JSON to an empty list. A loop is required as Zomato only provides 20 results per call, and in order to loop through more data, it is required to set the "start" variable as an integer in multiples of 20.
+ 4. Following step 3, run a loop to extract only relevant data (e.g. name, rating, cuisine type, etc.) by appending said data into empty lists. 
+ 5. Once all data is extracted, combine all lists into a Pandas dataframe and drop duplicates, confirming results using a .count() on the dataframe.
+ 6. In order to ensure that the datatypes were numeric, the columns "Aggregate Rating," "Latitude" and "Longitude" were set as float using the .astype(float) method.
+ 7. The dataframe was then ready to extract to be used to test the first and second question's hypotheses. 
+ 8. In order to test the third question, the cuisine type or "Type" column contained "dirty" data, which had multiple types per restaurant and needed to be consolidated into 8 overarching categories: Bakery, Beverages, Cafe and Fast Food for daytime-predominant eateries, and Bar, Desserts, Pub and Restaurants as nighttime-predominant eateries. It is noted that this broad generalisation is a limitation in the analysis as these categories may contain restaurants that do not fit discretely into "day" or "night" but are a blend of both.
+
+## Merging datasets
+
+ With each dataset neatly exported into CSV format, the datasets are merged to perform data analyses to evaluate our hypotheses.
+ 
+ 1. **Question 1 & 2 hypothesis test:** Zomato CSV data was imported into a new Jupyter notebook and the data grouped by sensor and the mean "Aggregate Rating" and "Price" calculated for each location 
+ 2. The pedestrian foot traffic data was then imported and the mean calculated for each location and saved as a Pandas series. 
+ 3. A new column in the dataframe from step 1 was assigned the pandas series from step 2 create an expanded dataframe that contained datasets from both CSVs.
+ 4. From this CSV, a number of visualisations were created, including scatter plots, box and whisker plots  and bar charts to identify the correlation (if any) between traffic and ratings / price. 
+
+
+# Data Exploration & Analysis
+
+
+# Limitations
+
+
+# Conclusions
+
