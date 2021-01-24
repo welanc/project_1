@@ -74,4 +74,38 @@ Our topic raised three questions, with the following hypotheses, null and altern
 >
 >**_Alternative Hypothesis:_** If foot traffic influences the type of eatery, then this may vary between location types (e.g. office areas, shopping areas, tourism areas)?
 
+# Data sources
 
+
+City of Melbourne Open Data - Pedestrian Count System:
+-   **url:** http://www.pedestrian.melbourne.vic.gov.au/#
+-   **date retrieved:** 17 January 2021 
+-   **data format (csv, json, api):** csv Files
+-   **organisation:** City of Melbourne  
+-   **how data was retrieved:** CSV downloaded direct from source via links.
+
+Zomato API - Restaurants Search URL:
+-   **url:** https://developers.zomato.com/api   
+-   **date retrieved:** 16 January 2021
+-   **data format (csv, json, api):** API <https://developers.zomato.com/api/v2.1/search?>    
+-   **organisation:** Zomato Media Pty Ltd
+-   **how data was retrieved:** API calls using Python requests.get() and stored as .json()
+
+# Data Wrangling
+
+This process required combining three sources of data: the City of Melbourne's Open Data Pedestrian Count System containing number of pedestrians per hour per day (we focused on 2019 data only, as 2020 data was an exceptional year and thus unreliable,) City of Melbourne's sensor location dataset which cotained information such as latitude and longitude of each sensor, which we could then use to do an API search of Zomato's data around the sensor latitudes and longitudes that we wanted.
+
+The data wrangling process was handled in **Jupyter Notebook**, unless noted otherwise, and applies to notebooks produced for the **Thursday Presentation** as well as **post-presentation**, unless noted otherwise. 
+
+## City of Melbourne Open Data: Pedestrian Count System
+
+ 1. Having retrieved the full hourly dataset from City of Melbourne's Open Data website a multiple CSV files per month (i.e. hourly data for January 2019, February 2019, March 2019, etc.) the datasets were combined in Microsoft Excel. During this process, it was found that there were some inconsistencies in column names/arrangement between some months, and so manual cleanup within excel was performed to tidy up the data as a consolidated CSV file.
+ 2. Following step 1, the CSV file was then imported to Jupyter Notebook and reduced to 3 sensors **(for Thursday's Presentation)** and then exported as a new CSV file.
+ 3. The new, reduced CSV file, was then imported to a new Jupyter Notebook, and count and datatypes tested to confirm number of datapoints and the data types of each column. 
+ 4. Faulty data was discovered (pedestrian counts of -1), which were removed from the dataframe by performing a conditional loc search on all columns where the values did not equal -1. This was confirmed through a count and checking the minimum and maximum values remaining in the dataframe.
+ 5. The cleaned dataframe was then grouped by date and averaged to get the average per day count (aggregating the hourly rows into a single day average)
+ 6. The dataframe was then transposed such that the locations became the index and the dates became the columns, in order to perform a statistical analysis using the .describe() method on the dataframe.
+
+## City of Melbourne Open Data: Pedestrian Count System Location Dataset
+
+ 1. The dataset was retrieved online at: https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Sensor-Locations/h57g-5234 on 15 January 2021 as a CSV file. No further cleaning of the data was required in this form.
