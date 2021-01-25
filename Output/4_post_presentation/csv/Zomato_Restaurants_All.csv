@@ -14,7 +14,7 @@
 50,Cafe L'Incontro,2.2,"Coffee and Tea, Italian, Cafe Food",2,-37.8144463119,144.9661670253,4,Town Hall (West)
 52,Gopal's Vegetarian,4.4,"Indian, Healthy Food, Vegetarian",2,-37.8143541377,144.9659447372,4,Town Hall (West)
 54,Tsujiri,3.7,"Japanese, Desserts, Coffee and Tea",1,-37.8142781203,144.966047667,4,Town Hall (West)
-56,Gongcha,3.0,"Bubble Tea, Taiwanese",1,-37.8142185248,144.9660060927,4,Town Hall (West)
+56,Gongcha,2.7,"Bubble Tea, Taiwanese",1,-37.8142185248,144.9660060927,4,Town Hall (West)
 59,Yifang Taiwan Fruit Tea - Swanston 一芳臺灣水果茶,3.1,"Bubble Tea, Asian",1,-37.8141811783,144.9660050869,4,Town Hall (West)
 60,Pure South Kitchen,3.4,"Asian Fusion, Modern Australian",3,-37.8202223336,144.9652527273,35,Southbank
 61,Ponyfish Island,4.3,Bar Food,3,-37.8199953589,144.9650488794,35,Southbank
@@ -72,7 +72,7 @@
 121,Amos ,0.0,Greek,4,-37.8030009957,144.9669482186,37,Lygon St (East)
 122,Vodka Temple,0.0,Bar Food,3,-37.8034441877,144.9666417763,37,Lygon St (East)
 123,El Giza Bar & Lounge,0.0,Bar Food,3,-37.8035602173,144.9665921554,37,Lygon St (East)
-124,Assembly,4.1,Coffee and Tea,1,-37.802768405,144.9672808126,37,Lygon St (East)
+124,Assembly,4.0,Coffee and Tea,1,-37.802768405,144.9672808126,37,Lygon St (East)
 125,Parco,3.9,"Cafe Food, Coffee and Tea",2,-37.8035427334,144.9662515149,37,Lygon St (East)
 126,Billy's - The Corner Takeaway Shop,4.3,Fish and Chips,2,-37.8036489612,144.966326952,37,Lygon St (East)
 127,The Rattlesnake Saloon,0.0,"American, Italian",3,-37.803726314,144.9665411934,37,Lygon St (East)
@@ -145,7 +145,7 @@
 210,Brown Sugar Café,3.7,"Continental, Coffee and Tea, Cafe Food",3,-37.8154273775,144.9643947557,53,Collins Street (North)
 212,Vicolino,3.0,"Mediterranean, Coffee and Tea, Cafe Food",3,-37.8165427147,144.9654535577,53,Collins Street (North)
 213,Jungle Juice,4.5,"Coffee and Tea, Cafe Food",3,-37.8165519848,144.9655346945,53,Collins Street (North)
-214,30 Block Place,3.7,"Mediterranean, Cafe Food, Coffee and Tea",3,-37.8153285829,144.9644125253,53,Collins Street (North)
+214,30 Block Place,3.6,"Mediterranean, Cafe Food, Coffee and Tea",3,-37.8153285829,144.9644125253,53,Collins Street (North)
 215,Hell's Kitchen,4.0,"BBQ, American",3,-37.8165567523,144.9655390531,53,Collins Street (North)
 218,B3 Café,4.2,"Bakery, Sandwich",1,-37.8165684061,144.965496473,53,Collins Street (North)
 219,Euro Lane Cafe,2.5,"Coffee and Tea, Cafe Food",3,-37.8165861518,144.965560846,53,Collins Street (North)
@@ -254,7 +254,7 @@
 360,Panda BBQ Restaurant Bar 熊猫有料音乐餐厅,3.8,"Chinese, BBQ",3,-37.8128854265,144.9671135098,21,Bourke St-Russell St (West)
 362,Taco Bill,2.8,Mexican,3,-37.8130088577,144.9682970345,21,Bourke St-Russell St (West)
 363,Superfluid,3.6,"Healthy Food, Juices",1,-37.8131267263,144.9676268175,21,Bourke St-Russell St (West)
-364,Modern China Tea Shop 茶颜悦色,3.5,"Tea, Bubble Tea, Beverages",1,-37.8130975902,144.9680962041,21,Bourke St-Russell St (West)
+364,Modern China Tea Shop 茶颜悦色,3.6,"Tea, Bubble Tea, Beverages",1,-37.8130975902,144.9680962041,21,Bourke St-Russell St (West)
 367,Le Charme,4.3,"Asian, Pan Asian, Vietnamese",3,-37.8119591567,144.9671182036,21,Bourke St-Russell St (West)
 368,China Red,4.3,Chinese,3,-37.8125977729,144.9668882042,21,Bourke St-Russell St (West)
 369,Tim Ho Wan,3.4,"Chinese, Yum Cha",3,-37.8129444934,144.9671165273,21,Bourke St-Russell St (West)
@@ -294,7 +294,7 @@
 414,Teppanyaki Inn,4.6,"Japanese, Teppanyaki",4,-37.8148928785,144.9675885961,4,Town Hall (West)
 415,Nusantara Indonesian Cuisine,3.8,Indonesian,1,-37.8138286364,144.9667825922,4,Town Hall (West)
 416,The Cultured Salad,3.5,"Cafe Food, Salad, Coffee and Tea",2,-37.8144727987,144.9646680057,4,Town Hall (West)
-418,Cafe SoHo - CBD,3.6,"Chinese, Cantonese, Coffee and Tea",2,-37.8137997656,144.9667457119,4,Town Hall (West)
+418,Cafe SoHo - CBD,3.5,"Chinese, Cantonese, Coffee and Tea",2,-37.8137997656,144.9667457119,4,Town Hall (West)
 420,Waterslide Bar,3.7,Bar Food,3,-37.8201055358,144.9668489769,35,Southbank
 421,The Tuck Shop ,0.0,"Falafel, Kebab",2,-37.8201081842,144.966866076,35,Southbank
 422,Salsas Fresh Mex Grill,2.9,"Fast Food, Mexican",2,-37.820179958,144.9668804929,35,Southbank
@@ -322,7 +322,7 @@
 449,Shujinko - Russell St,4.2,"Japanese, Ramen",3,-37.8113258326,144.9672962353,20,Chinatown-Lt Bourke St (South)
 450,Flower Drum,4.6,Chinese,4,-37.8119273715,144.9692998454,20,Chinatown-Lt Bourke St (South)
 452,Old Crystal Jade Restaurant,3.9,Hot Pot,3,-37.8117424869,144.9671524018,20,Chinatown-Lt Bourke St (South)
-453,Bangkok Jam,4.1,"Thai, Asian",3,-37.8113962905,144.9692740291,20,Chinatown-Lt Bourke St (South)
+453,Bangkok Jam,4.0,"Thai, Asian",3,-37.8113962905,144.9692740291,20,Chinatown-Lt Bourke St (South)
 454,Six Po Hot Pot,2.8,Hot Pot,3,-37.8112696781,144.9672902003,20,Chinatown-Lt Bourke St (South)
 455,New Kum Den BBQ  新金鼎,3.5,"Chinese, BBQ, Cantonese",3,-37.8116839488,144.9671228975,20,Chinatown-Lt Bourke St (South)
 457,面食煮忆 Wonton Master,3.6,"Chinese, Dumplings",2,-37.811097771,144.9674377218,20,Chinatown-Lt Bourke St (South)
@@ -388,7 +388,7 @@
 524,Meet Sando,3.7,"Coffee and Tea, Cafe Food",2,-37.8070879041,144.9597139657,51,QVM-Franklin St (North)
 525,Drago's,3.1,Sandwich,1,-37.8069981047,144.9593032524,51,QVM-Franklin St (North)
 526,Original Chai Co,3.7,Tea,1,-37.8072153183,144.9580359086,51,QVM-Franklin St (North)
-527,The Corner Chicken Shop,3.6,Fast Food,2,-37.8069755886,144.9592975527,51,QVM-Franklin St (North)
+527,The Corner Chicken Shop,3.7,Fast Food,2,-37.8069755886,144.9592975527,51,QVM-Franklin St (North)
 529,Island Somewhere,3.6,Bar Food,3,-37.8096183997,144.9579383433,51,QVM-Franklin St (North)
 530,Geloso Gelateria,3.9,"Ice Cream, Desserts, Coffee and Tea",1,-37.8073125344,144.9577355012,51,QVM-Franklin St (North)
 531,Pinball Paradise,3.7,Bar Food,1,-37.8096448882,144.9578672648,51,QVM-Franklin St (North)
