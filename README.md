@@ -3,20 +3,12 @@
 
 Our project was to uncover the link between foot traffic in Melbourne CBD with the type of eateries in the surrounding area, their ratings and their price: **why do some eateries have higher user ratings than others** and does location and foot traffic have any statistical influence on this?
 
-Contributors: Franz Kiel, Catherine Sloan, Thomas Maina & Welan Chu
+Contributors: Welan Chu, Catherine Sloan, Thomas Maina & Franz Kiel
 
 
 # Files & Directory Structure
 
 Our working files, resources and outputs can be found in the following structure:
-
-## Root directory
-
-Contains the following notebooks: 
-
- - **Combined_Analysis:** Jupyter Notebook used for performing data and statistical analyses of City of Melbourne's Open Data Pedestrian Counting System dataset and Zomato's eateries dataset.   
- - **Pedestrian_Traffic_Data.ipynb:** Jupyter Notebook used for retrieving pedestrian foot traffic data from City of Melbourne's Open Data Pedestrian Counting System, via CSV files.
- - **Zomato_Data.ipynb:** Jupyter Notebook used for retrieving eateries data from Zomato API.
  
 ## Resource directory
 
@@ -28,22 +20,72 @@ All external sources used to gather data in order to test our hypotheses (other 
 
 The Output contains all exported CSVs and visualisations (as PNGs) pertaining to the analysis of the datasets. 
 
-### CSV directory
+### 1_pedestrian_csv
 
- - **Zomato_Restaurants_All.csv:** full dataset of eateries from final 9 sensor locations, with no adjustments made to the *Type* column (i.e. no .replace() function to consolidate types.) 
- - **Zomato_Restaurants_All_Consolidated-Types.csv:** full dataset of eateries from final 9 sensor locations, with .replace() function to consolidate the *Type* column.
+ - **censors2019_chosen3.csv:** Hourly pedestrian count data from 2019 filtered to the three locations in our analysis.     
+ -  **censors2019_chosen3_cleaned.csv:** Hourly pedestrian count data from 2019 filtered to the three locations in our analysis, errorneous data removed (e.g. counts of -1)     
+ - **censors2019_chosen3_dailyaverage.csv:** Hourly pedestrian count data from 2019 filtered to the three locations in our analysis and averaged into daily average counts.
+ - **censors2019_chosen3_dailyaverage_transposed.csv:** Average daily pedestrian count data transposed by location, such that row labels are locations and columns are dates in 2019.
+
+### 2_zomato_csv
+
+-  **Zomato_Restaurants_All.csv:** full dataset of eateries from final 3 sensor locations, with no adjustments made to the *Type* column (i.e. no .replace() function to consolidate types.) 
+ - **Zomato_Restaurants_All_Consolidated-Types.csv:** full dataset of eateries from final 3 sensor locations, with .replace() function to consolidate the *Type* column.
+
+### 3_analysis_csv
+
+ - **sensors3_averaged_rating_price_pedestrians.csv:** Averages of rating, price and daily pedestrian count for 2019, for the 3 locations.
+
+### 4_post_presentation
  - **combined_sensor_rating_price_traffic.csv:** aggregated dataset of eateries from final 9 sensor locations, with the average (mean) for *Aggregate Rating*, *Price*, and *Daily Average (number of pedestrians per day for the entirety of 2019)*.
 - **sensor_locs_final_9.csv:** aggregated dataset of final 9 sensor locations, with the average (mean) number of pedestrians per day for the entirety of 2019.
 - **sensor_locs_hourly_high.csv:** aggregated dataset the three highest foot traffic sensor locations (out of the final 9 locations), with the average (mean) hourly number of pedestrians per day for the entirety of 2019.
 - **sensor_locs_hourly_high.csv:** aggregated dataset the three highest foot traffic sensor locations (out of the final 9 locations), with the average (mean) hourly number of pedestrians per day for the entirety of 2019.
 - **sensor_locs_hourly_med.csv:** aggregated dataset the three medium foot traffic sensor locations (out of the final 9 locations), with the average (mean) hourly number of pedestrians per day for the entirety of 2019.
 - **sensor_locs_hourly_low.csv:** aggregated dataset the three lowest foot traffic sensor locations (out of the final 9 locations), with the average (mean) hourly number of pedestrians per day for the entirety of 2019.
+-  **Zomato_Restaurants_All.csv:** full dataset of eateries from final 9 sensor locations, with no adjustments made to the *Type* column (i.e. no .replace() function to consolidate types.) 
+ - **Zomato_Restaurants_All_Consolidated-Types.csv:** full dataset of eateries from final 9 sensor locations, with .replace() function to consolidate the *Type* column.
 
-### PNG directory
+## 1_Pedestrian_Sensor_Notebooks
 
- - Statistical analyses testing each question, represented through various plots. 
+Contains the following notebooks:
 
-## Superseded directory
+ - **1_extracting_three_sensors_notcleaned.ipynb:** Jupyter Notebook used for extracting the raw CSV pedestrian count dataset into only three locations per our analysis.
+ - **2_cleaning_three_sensors.ipynb:**    
+
+## 2_Zomato_Notebooks
+
+Contains the following notebooks:
+
+ - **Zomato_Data.ipynb:** Jupyter Notebook used for retrieving eateries data from Zomato API.
+ -  Note: a config.py file is required with appropriate API keys, refer to README in directory.
+
+## 3_Analysis_Notebooks
+
+Contains the following directories:
+
+### 1_questions_1_2
+Contains the following notebooks: 
+
+ - **1_sensors_trafficlinegraph.ipynb:** Jupyter Notebook used for creating line graph of average daily pedestrians per location for 2019. 
+ - **2_groupbysensor_appliedaverages_barcharts.ipynb:** Jupyter Notebook used for creating bar charts to analyse average ratings and price relative to average daily pedestrians per location for 2019.
+ - **3_box_whisper_scatter_ANOVA.ipynb:** Jupyter Notebook used for creating box and whisker plots and scatter plots to analyse the correlation, mean and interquartile range of the average user rating and price rating compared to each location. An ANOVA was also performed to test whether the results supported or rejected the null hypothesis.
+
+### 2_question_3
+Contains the following notebooks: 
+
+ - **eateries_type_analysis.ipynb:** Jupyter Notebook used for analysing the frequency of eatery types relative to average pedestrian counts per location, using bar charts and Google Maps marker locations to plot locations geographically.
+ - Note: a config.py file is required with appropriate API keys, refer to README in directory.
+
+## 4_Post_Presentation
+
+Contains the following notebooks: 
+
+ - **Combined_Analysis.ipynb:** Jupyter Notebook used for performing data and statistical analyses of City of Melbourne's Open Data Pedestrian Counting System dataset and Zomato's eateries dataset.   
+ - **Ped_Count_2019_PostPres.ipynb:** Jupyter Notebook used for retrieving pedestrian foot traffic data from City of Melbourne's Open Data Pedestrian Counting System, via CSV files.
+ - **Zomato_Data_PostPres.ipynb:** Jupyter Notebook used for retrieving eateries data from Zomato API.
+ -  Note: a config.py file is required with appropriate API keys, refer to README in directory.
+
 
 
 # Hypotheses
@@ -74,8 +116,8 @@ Our topic raised three questions, with the following hypotheses, null and altern
 >
 >**_Alternative Hypothesis:_** If foot traffic influences the type of eatery, then this may vary between location types (e.g. office areas, shopping areas, tourism areas)?
 
-
 # Data sources
+
 
 City of Melbourne Open Data - Pedestrian Count System:
 -   **url:** http://www.pedestrian.melbourne.vic.gov.au/#
@@ -90,7 +132,6 @@ Zomato API - Restaurants Search URL:
 -   **data format (csv, json, api):** API <https://developers.zomato.com/api/v2.1/search?>    
 -   **organisation:** Zomato Media Pty Ltd
 -   **how data was retrieved:** API calls using Python requests.get() and stored as .json()
-
 
 # Data Wrangling
 
@@ -126,21 +167,29 @@ The data wrangling process was handled in **Jupyter Notebook**, unless noted oth
  7. The dataframe was then ready to extract to be used to test the first and second question's hypotheses. 
  8. In order to test the third question, the cuisine type or "Type" column contained "dirty" data, which had multiple types per restaurant and needed to be consolidated into 8 overarching categories: Bakery, Beverages, Cafe and Fast Food for daytime-predominant eateries, and Bar, Desserts, Pub and Restaurants as nighttime-predominant eateries. It is noted that this broad generalisation is a limitation in the analysis as these categories may contain restaurants that do not fit discretely into "day" or "night" but are a blend of both.
 
+
 ## Merging datasets
 
  With each dataset neatly exported into CSV format, the datasets are merged to perform data analyses to evaluate our hypotheses.
  
- 1. **Question 1 & 2 hypothesis test:** Zomato CSV data was imported into a new Jupyter notebook and the data grouped by sensor and the mean "Aggregate Rating" and "Price" calculated for each location 
+ 1. **Question 1 & 2 hypothesis test:** Zomato CSV data was imported into a new Jupyter Notebook and the data grouped by sensor and the mean "Aggregate Rating" and "Price" calculated for each location 
  2. The pedestrian foot traffic data was then imported and the mean calculated for each location and saved as a Pandas series. 
  3. A new column in the dataframe from step 1 was assigned the pandas series from step 2 create an expanded dataframe that contained datasets from both CSVs.
  4. From this CSV, a number of visualisations were created, including scatter plots, box and whisker plots  and bar charts to identify the correlation (if any) between traffic and ratings / price. 
-
+ 5. **Question 3 hypothesis test:** Zomato CSV data was imported into a new Jupyter Notebook and the data filtered into three separate dataframes per location. The .value_counts() method was applied and sorted alphabetically using .sort_index() method and then the index reset using reset_index() method. 
+ 6. Each location-based dataframe was then re-merged to create one combined dataframe with value counts of each eatery type. 
+ 7. This dataframe was transposed to allow for bar graphing the results with locations along the x-axis and eatery types as the categories to be measured, with number of eateries as the y-axis.
 
 # Data Exploration & Analysis
 
 
 # Limitations
 
+One limitation of our analysis is that we had to define the type of eateries ourselves. The zomato API categorised each restaurant into a very specific type such as ‘Fast Food, Japanese, Sushi’. We condensed these down to 8 broader types.
 
+A second limitation is that we only chose 3 sensor locations, with more time we would have increased our foot traffic data by looking at more sensors. We would also increase our restaurant data by increasing the radius from 50 metres from each sensor. With more data our analysis would then be more accurate and reliable.
+
+With more preparation time we could establish time series profiles, i.e. at what time of the day did the sensors have high foot traffic. Some areas are frequented by commuters and others by people going out for dinner; could also look at weekdays vs weekend.
+
+The foot traffic data is recorded every hour for each sensor, i.e. 24*365 = 8,760 data point per year. As the Zomato restaurant data doesn’t include a time series component, we couldn’t use this level of granularity. We used the mean function to reduce it to a single value per sensor.
 # Conclusions
-
