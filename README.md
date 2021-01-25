@@ -182,6 +182,28 @@ The data wrangling process was handled in **Jupyter Notebook**, unless noted oth
 
 # Data Exploration & Analysis
 
+The data shows that Bourke Street Mall  (BSM) has the highest foot traffic of the three locations, followed by Queen Victoria Market & Elizabeth Street intersection (QVM), and Flinders Street & Spark Lane (Flin) intersection with the lowest.
+
+### Question 1: Pedestrian Foot Traffic vs Rating
+Based on our analyses, as evidenced in the box and whisker plot, BSM had the biggest range of ratings and lowest mean rating, while QVM had the highest mean rating and shortest range of ratings. 
+
+When analysing each restaurant's ratings individually in comparison to foot traffic, as evidenced in the scatter plot, the correlation coefficient (r.) is quite weak at -0.188, indicating that there is generally a negative correlation between ratings and foot traffic. That is, the lower the foot traffic, the higher the rating is likely to be. However, the coefficient of determination (r squared) is very low, at 0.035, indicating that the linear regression is a poor predictor of ratings to foot traffic.
+
+This appears to be supported by the ANOVA, with a p-value greater than 0.05, indicating there is no statistical significance and that we may retain the null hypothesis.
+
+### Question 2: Pedestrian Foot Traffic vs Price
+Based on our analyses, as evidenced in the box and whisker plot, all locations had, coincidentally, the same mean price of 2, while Flin appears to have the highest price rating and BSM having the lowest. This appears to suggest that the lowest foot traffic areas have the priciest restaurants, while the highest foot traffic areas have the cheapest restaurants.
+
+When analysing each restaurant's ratings individually in comparison to foot traffic, as evidenced in the scatter plot, the correlation coefficient (r) is weak at -0.260, indicating that there is generally a slight negative correlation between prices and foot traffic. That is, the lower the foot traffic, the higher the price is likely to be. However, the coefficient of determination (r squared) is very low, at 0.067, indicating that the linear regression is a poor predictor of ratings to foot traffic. It is noted, however, that the correlation is slightly greater than for the user ratings-foot traffic scatter plot, indicating price-foot traffic can be determined with slightly better accuracy with the linear regression analysis.
+
+The ANOVA assessment yields a p-value less than 0.05, indicating there is some statistical significance and that we may reject the null hypothesis.
+
+### Question 3: Pedestrian Foot Traffic vs Eatery Type
+Based on our analyses, there appears to be insufficient evidence to correlate any type or day/nighttime types to foot traffic, with some exceptions being the *Beverages, Fast Food* and *Bar* types having fairly strong coefficients of determination (r squared) of 0.938, 0.624 and 0.981 respectively, suggesting the linear regression lines are good predictors of whether type is influenced by foot traffic.
+
+Interestingly, evidenced in the stacked bar charts, BSM, which had the highest evening/nighttime peak traffic of all three locations, had the lowest nighttime eatery types and the highest daytime eatery times. Meanwhile QVM had the highest overall nighttime types despite having its peak foot traffic during the day. 
+
+The ANOVA assessment suggests that the p-value for both daytime and nighttime types is less than 0.05, this indicates some statistical significance and that we may reject the null hypothses.
 
 # Limitations
 
